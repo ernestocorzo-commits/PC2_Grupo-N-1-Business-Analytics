@@ -1,17 +1,29 @@
 """
-Genera dashboard/data.js a partir de los CSV exportados por el notebook PC2
+Genera Dashboard/data.js a partir de los CSV exportados por el notebook PC2
 (canciones, chart_diario, rotacion_diaria, modelo_*, segmentos, kpis).
 
-Uso (desde la carpeta DATA):  python dashboard/build_data.py
+Uso (desde cualquier carpeta):  python "ruta/a/Dashboard/build_data.py"
 Vuelve a ejecutarlo cada vez que se re-exporten los CSV del notebook.
+
+Estructura esperada:
+  PC2_Grupo N°1_Entregables/
+    Dashboard/        <- este script, index.html y data.js
+    Datos Limpios/    <- canciones.csv, chart_diario.csv, ... (salida del notebook)
+Si no encuentra "Datos Limpios", busca los CSV en la carpeta padre del Dashboard.
 """
 import csv
 import json
 import os
+import sys
 from collections import Counter
 
-BASE = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-OUT = os.path.join(os.path.dirname(os.path.abspath(__file__)), "data.js")
+DASH = os.path.dirname(os.path.abspath(__file__))
+PADRE = os.path.dirname(DASH)
+CANDIDATAS = [os.path.join(PADRE, "Datos Limpios"), PADRE]
+BASE = next((c for c in CANDIDATAS if os.path.isfile(os.path.join(c, "canciones.csv"))), None)
+if BASE is None:
+    sys.exit("No se encontró canciones.csv. Se buscó en:\n  " + "\n  ".join(CANDIDATAS))
+OUT = os.path.join(DASH, "data.js")
 
 
 def leer(nombre):
@@ -74,6 +86,7 @@ por_id = {c["id_cancion"]: c for c in canciones}
 gen = Counter(por_id[r[2]]["macro_genero"] for r in chart_rows)
 tipo = Counter(por_id[r[2]]["tipo_artista"] for r in chart_rows)
 total = len(chart_rows)
+print(f"CSV leídos desde: {BASE}")
 print(f"data.js escrito: {len(canciones)} canciones, {total} filas de chart, {fechas[0]} a {fechas[-1]}")
 print("Cuota por macro-género (% de días-puesto):")
 for g, n in gen.most_common():
