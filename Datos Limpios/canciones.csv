@@ -1,0 +1,385 @@
+﻿id_cancion,cancion,artistas,tipo_artista,pais_origen,macro_genero,segmento,dias_en_chart,supera_7_dias,permanencia_conocida,primera_fecha,ultima_fecha,rank_debut,duracion_min,danceability,energy,valence,tempo,acousticness,speechiness
+1,,,Sin dato,Sin dato,K-pop,Fiesta urbana,2,No,Sí,2023-11-09,2023-11-10,25,0.0,0.723,0.808,0.537,90.0,0.018,0.051
+2,111,Yan Block,Solista,Sin dato,Sin dato,Urbano rapeado (trap),24,Sí,Sí,2025-03-01,2025-06-09,48,2.56,0.792,0.498,0.14,128.0,0.501,0.196
+3,3D (feat. Jack Harlow),"Jung Kook, Jack Harlow",Solista,Corea del Sur,K-pop,Fiesta urbana,27,Sí,No (censurada),2023-10-18,2023-11-14,20,3.36,0.853,0.824,0.888,108.0,0.032,0.103
+4,444,"Yan Block, Panda Black",Solista,Sin dato,Sin dato,Baladas acústicas,14,Sí,No (censurada),2025-05-26,2025-06-11,50,2.92,0.435,0.61,0.22,118.7,0.152,0.09
+5,5 Pa´ las 12,Gabino Pampini,Sin dato,Sin dato,Tropical (cumbia / salsa / bachata),Fiesta urbana,1,No,Sí,2025-01-02,2025-01-02,37,5.21,0.749,0.792,0.919,98.3,0.724,0.059
+6,+57,"KAROL G, Feid, DFZM, Ovy On The Drums, J Balvin, Maluma, Ryan Castro, Blessd",Solista,Colombia,Urbano latino (reggaetón / trap latino),Fiesta urbana,138,Sí,Sí,2024-11-10,2025-05-01,26,4.97,0.848,0.712,0.692,92.0,0.221,0.098
+7,7 Trompetas,Cris Mj,Solista,Chile,Sin dato,Fiesta urbana,4,No,Sí,2024-12-23,2024-12-30,36,2.83,0.789,0.471,0.56,97.0,0.263,0.046
+8,A Mí,Rels B,Solista,España,Otros,Urbano rapeado (trap),17,Sí,Sí,2024-12-06,2025-05-06,40,3.49,0.846,0.548,0.516,94.9,0.241,0.256
+9,ACHO PR,"Bad Bunny, Arcángel, De La Ghetto, Ñengo Flow",Solista,Puerto Rico,Urbano latino (reggaetón / trap latino),Urbano rapeado (trap),2,No,No (censurada),2023-10-18,2023-10-19,46,5.99,0.541,0.796,0.469,85.2,0.317,0.347
+10,ADIVINO,"Myke Towers, Bad Bunny",Solista,Puerto Rico,Urbano latino (reggaetón / trap latino),Fiesta urbana,122,Sí,Sí,2024-04-27,2024-08-26,9,4.64,0.786,0.854,0.522,118.0,0.169,0.074
+11,AGORA,Maria Becerra,Solista,Argentina,Urbano latino (reggaetón / trap latino),Fiesta urbana,22,Sí,Sí,2024-09-26,2024-10-19,50,2.56,0.686,0.871,0.626,169.9,0.254,0.093
+12,All I Want for Christmas Is You,Mariah Carey,Solista,EE.UU.,"Pop / anglo (pop, hip-hop, R&B, rock, electrónica)",Baladas acústicas,4,No,Sí,2023-12-26,2024-12-26,18,4.02,0.336,0.627,0.35,150.3,0.164,0.038
+13,Alquien Que Bese Como Tu,Pedro Suárez-Vértiz,Sin dato,Sin dato,Sin dato,Fiesta urbana,1,No,Sí,2023-12-31,2023-12-31,40,6.1,0.678,0.512,0.472,99.0,0.086,0.029
+14,ALV,"Arcángel, Grupo Frontera",Solista,Puerto Rico,Urbano latino (reggaetón / trap latino),Urbano rapeado (trap),7,No,Sí,2023-11-20,2023-11-26,47,3.74,0.777,0.65,0.401,93.1,0.128,0.213
+15,Amanece,"Anuel AA, Haze",Solista,Puerto Rico,Urbano latino (reggaetón / trap latino),Fiesta urbana,267,Sí,Sí,2023-10-30,2024-11-16,48,3.17,0.79,0.631,0.889,94.0,0.437,0.042
+16,AMARGURA,KAROL G,Solista,Colombia,Urbano latino (reggaetón / trap latino),Fiesta urbana,431,Sí,No (censurada),2023-10-18,2025-01-05,13,2.84,0.916,0.698,0.539,107.0,0.172,0.071
+17,AMISTA,"Blessd, Ovy On The Drums",Sin dato,Sin dato,Sin dato,Fiesta urbana,1,No,Sí,2025-05-07,2025-05-07,44,2.96,0.744,0.606,0.629,170.0,0.135,0.049
+18,Amor de Vago,"La T y La M, Malandro",Agrupación,Argentina,Tropical (cumbia / salsa / bachata),Baladas acústicas,37,Sí,Sí,2025-03-28,2025-05-11,42,3.14,0.65,0.507,0.603,180.0,0.706,0.111
+19,Amor Vuelve - (En Vivo),"Grupo 5, Eddy Herrera",Agrupación,Perú,Tropical (cumbia / salsa / bachata),Fiesta urbana,124,Sí,Sí,2023-10-23,2024-03-25,49,3.78,0.626,0.936,0.947,133.0,0.115,0.031
+20,ANDO,"Jere Klein, Gittobeatz",Solista,Chile,Sin dato,Fiesta urbana,149,Sí,Sí,2023-11-26,2024-04-26,50,2.88,0.868,0.569,0.352,98.0,0.002,0.072
+21,Año Nuevo,Internacional Privados,Sin dato,Sin dato,Sin dato,Fiesta urbana,1,No,Sí,2025-01-02,2025-01-02,33,3.36,0.932,0.644,0.963,123.0,0.229,0.052
+22,APAGA EL CEL,"FloyyMenor, Lewis Somes",Solista,Chile,Sin dato,Baladas acústicas,81,Sí,Sí,2024-06-02,2024-11-13,43,3.08,0.696,0.496,0.476,100.0,0.273,0.036
+23,APT.,"ROSÉ, Bruno Mars",Solista,EE.UU.,Sin dato,Fiesta urbana,169,Sí,Sí,2024-10-20,2025-04-16,26,2.83,0.777,0.783,0.939,149.0,0.028,0.26
+24,As It Was,Harry Styles,Solista,Sin dato,"Pop / anglo (pop, hip-hop, R&B, rock, electrónica)",Fiesta urbana,2,No,Sí,2024-05-21,2024-05-22,50,2.79,0.52,0.731,0.662,173.9,0.342,0.056
+25,AURORA,"Mora, De La Rose",Agrupación,SE,"Pop / anglo (pop, hip-hop, R&B, rock, electrónica)",Baladas acústicas,1,No,Sí,2025-05-20,2025-05-20,39,3.21,0.595,0.761,0.367,111.9,0.592,0.042
+26,BABY NUEVA,Bad Bunny,Solista,Puerto Rico,Urbano latino (reggaetón / trap latino),Fiesta urbana,16,Sí,No (censurada),2023-10-18,2023-11-02,21,4.01,0.866,0.63,0.359,117.9,0.504,0.062
+27,Bad Blood (Taylor's Version),Taylor Swift,Solista,EE.UU.,"Pop / anglo (pop, hip-hop, R&B, rock, electrónica)",Fiesta urbana,1,No,Sí,2023-10-29,2023-10-29,47,3.52,0.619,0.686,0.364,169.9,0.038,0.164
+28,BAILE INoLVIDABLE,Bad Bunny,Solista,Puerto Rico,Urbano latino (reggaetón / trap latino),Baladas acústicas,149,Sí,No (censurada),2025-01-06,2025-06-11,7,6.13,0.168,0.003,0.219,119.4,0.192,0.061
+29,BANDIDA,Mora,Agrupación,SE,"Pop / anglo (pop, hip-hop, R&B, rock, electrónica)",Baladas acústicas,1,No,Sí,2025-05-20,2025-05-20,28,3.54,0.567,0.742,0.548,173.9,0.741,0.045
+30,BBY BOO - REMIX,"iZaak, JHAYCO, Anuel AA",Solista,Puerto Rico,Urbano latino (reggaetón / trap latino),Fiesta urbana,104,Sí,Sí,2024-04-17,2024-08-01,50,4.6,0.703,0.617,0.486,174.0,0.215,0.151
+31,Be Mine,Jimin,Solista,Corea del Sur,K-pop,Fiesta urbana,2,No,Sí,2024-07-20,2024-08-03,49,3.46,0.687,0.747,0.56,66.5,0.056,0.088
+32,Beautiful Things,Benson Boone,Solista,EE.UU.,"Pop / anglo (pop, hip-hop, R&B, rock, electrónica)",Baladas acústicas,34,Sí,Sí,2024-03-06,2024-04-12,50,3.01,0.472,0.471,0.219,105.0,0.151,0.06
+33,BELLAKEO,"Peso Pluma, Anitta",Solista,México,Regional mexicano,Fiesta urbana,154,Sí,Sí,2023-12-17,2024-05-22,42,3.29,0.72,0.88,0.463,180.0,0.056,0.101
+34,"BESAME (feat. Tiago PZK, Khea & Neo Pistea) - Remix","Bhavi, Seven Kayne, Milo j, Tiago PZK, KHEA, Neo Pistea",Solista,Argentina,Sin dato,Urbano rapeado (trap),78,Sí,Sí,2024-04-18,2024-07-18,21,4.74,0.728,0.523,0.224,130.2,0.289,0.175
+35,BIRDS OF A FEATHER,Billie Eilish,Sin dato,Sin dato,Sin dato,Fiesta urbana,328,Sí,No (censurada),2024-06-11,2025-06-11,48,3.51,0.747,0.507,0.438,105.0,0.2,0.036
+36,Blank Space (Taylor's Version),Taylor Swift,Solista,EE.UU.,"Pop / anglo (pop, hip-hop, R&B, rock, electrónica)",Fiesta urbana,1,No,Sí,2023-10-29,2023-10-29,27,3.86,0.737,0.725,0.755,96.0,0.098,0.064
+37,BOKeTE,Bad Bunny,Solista,Puerto Rico,Urbano latino (reggaetón / trap latino),Baladas acústicas,27,Sí,Sí,2025-01-06,2025-02-01,26,3.6,0.4,0.07,0.034,124.9,0.194,0.046
+38,Borro Cassette,Maluma,Sin dato,Sin dato,Sin dato,Fiesta urbana,374,Sí,No (censurada),2024-04-06,2025-06-11,49,3.46,0.73,0.701,0.785,176.0,0.132,0.106
+39,Brickell,"Feid, Yandel",Sin dato,Sin dato,Sin dato,Fiesta urbana,191,Sí,Sí,2024-05-04,2024-11-24,45,3.01,0.805,0.89,0.489,93.0,0.07,0.063
+40,Brickell - Intro Extended,Luna Cristofanelli,Solista,Sin dato,Sin dato,Fiesta urbana,9,Sí,Sí,2024-06-16,2024-06-24,27,2.98,0.814,0.819,0.804,93.0,0.06,0.056
+41,BUBALU,"Feid, Rema",Sin dato,Sin dato,Sin dato,Fiesta urbana,149,Sí,Sí,2023-11-07,2024-04-05,49,3.8,0.786,0.803,0.722,112.0,0.135,0.072
+42,Buscando Money,"TWENTY SIX, Tayson Kryss",Solista,IT,"Pop / anglo (pop, hip-hop, R&B, rock, electrónica)",Fiesta urbana,39,Sí,Sí,2024-02-05,2024-03-14,46,2.5,0.817,0.812,0.725,128.0,0.09,0.057
+43,Bye Bye Bye - From Deadpool and Wolverine Soundtrack,*NSYNC,Agrupación,EE.UU.,"Pop / anglo (pop, hip-hop, R&B, rock, electrónica)",Fiesta urbana,38,Sí,Sí,2024-07-29,2024-09-04,44,3.34,0.61,0.926,0.861,172.6,0.031,0.048
+44,CAFé CON RON,"Bad Bunny, Los Pleneros de la Cresta",Solista,Puerto Rico,Urbano latino (reggaetón / trap latino),Baladas acústicas,30,Sí,Sí,2025-01-06,2025-02-04,44,3.81,0.328,0.153,0.038,95.5,0.148,0.056
+45,Candy,Plan B,Sin dato,Sin dato,Sin dato,Fiesta urbana,1,No,Sí,2025-06-09,2025-06-09,44,3.46,0.898,0.859,0.544,96.0,0.252,0.125
+46,"Canta, Rie y Bebe",Los Toribianitos,Sin dato,Sin dato,Sin dato,Fiesta urbana,1,No,Sí,2023-12-27,2023-12-27,45,3.44,0.76,0.756,0.855,125.3,0.182,0.057
+47,capaz (merengueton),"Alleh, Yorghaki",Solista,Sin dato,Sin dato,Fiesta urbana,166,Sí,No (censurada),2024-12-20,2025-06-11,50,2.9,0.872,0.614,0.785,127.0,0.082,0.181
+48,Caraluna,Bacilos,Agrupación,EE.UU.,Pop latino / balada,Fiesta urbana,86,Sí,Sí,2023-10-26,2024-02-02,50,4.44,0.76,0.773,0.895,102.8,0.176,0.068
+49,Chaparrita,"Standly, Yeri Mua",Sin dato,Sin dato,Sin dato,Fiesta urbana,2,No,Sí,2025-05-03,2025-05-04,47,2.64,0.81,0.814,0.669,100.0,0.09,0.058
+50,Cholito Jesús,Los Toribianitos,Sin dato,Sin dato,Sin dato,Fiesta urbana,2,No,Sí,2023-12-27,2024-12-26,22,3.83,0.695,0.879,0.716,97.1,0.289,0.085
+51,Choreando,"26is, Louis Producer",Solista,Perú,Sin dato,Baladas acústicas,11,Sí,Sí,2025-04-17,2025-05-05,50,2.04,0.492,0.714,0.663,99.3,0.483,0.151
+52,CHORRITO PA LAS ANIMAS,Feid,Sin dato,Sin dato,Sin dato,Fiesta urbana,125,Sí,Sí,2023-10-23,2024-03-03,50,2.8,0.743,0.831,0.609,96.0,0.114,0.058
+53,Chulo pt.2,"Bad Gyal, Tokischa, Young Miko",Solista,Sin dato,Urbano latino (reggaetón / trap latino),Fiesta urbana,104,Sí,No (censurada),2023-10-18,2024-01-29,23,3.66,0.852,0.881,0.555,97.0,0.06,0.126
+54,CLASSY 101,"Feid, Young Miko",Sin dato,Sin dato,Sin dato,Fiesta urbana,420,Sí,No (censurada),2023-10-18,2024-12-29,14,3.27,0.858,0.664,0.66,100.1,0.128,0.153
+55,Closer Than This,Jimin,Solista,Corea del Sur,K-pop,Baladas acústicas,7,No,Sí,2023-12-24,2024-07-20,15,3.72,0.716,0.539,0.381,88.0,0.389,0.038
+56,Closer to You (feat. Major Lazer),"Jung Kook, Major Lazer",Solista,Corea del Sur,K-pop,Fiesta urbana,1,No,Sí,2023-11-05,2023-11-05,42,2.85,0.781,0.655,0.493,113.0,0.114,0.046
+57,Columbia,Quevedo,Solista,Sin dato,Urbano latino (reggaetón / trap latino),Baladas acústicas,373,Sí,No (censurada),2023-10-18,2025-05-16,8,3.1,0.668,0.712,0.264,100.0,0.369,0.038
+58,Come back to me,RM,Solista,Corea del Sur,"Pop / anglo (pop, hip-hop, R&B, rock, electrónica)",Baladas acústicas,5,No,Sí,2024-05-11,2024-05-25,34,6.48,0.623,0.462,0.344,73.0,0.397,0.033
+59,Committed,"Rauw Alejandro, Pharrell Williams",Solista,Puerto Rico,Urbano latino (reggaetón / trap latino),Fiesta urbana,1,No,Sí,2024-11-17,2024-11-17,48,2.66,0.749,0.639,0.483,122.0,0.129,0.108
+60,Como las Mariposas,Pedro Suárez-Vértiz,Sin dato,Sin dato,Sin dato,Fiesta urbana,6,No,Sí,2023-12-30,2024-01-04,31,3.83,0.777,0.713,0.969,126.0,0.569,0.032
+61,¿Cómo Pasó?,Ela Taubert,Sin dato,Sin dato,Sin dato,Fiesta urbana,7,No,Sí,2024-04-26,2024-05-07,50,2.91,0.705,0.743,0.443,120.0,0.029,0.054
+62,Cómo Te Atreves,Morat,Agrupación,Colombia,Pop latino / balada,Fiesta urbana,2,No,Sí,2024-03-02,2024-03-03,25,4.01,0.617,0.888,0.771,131.0,0.07,0.04
+63,Con otra,Cazzu,Solista,Argentina,Urbano latino (reggaetón / trap latino),Baladas acústicas,8,Sí,Sí,2025-03-29,2025-04-09,43,3.85,0.581,0.61,0.55,168.2,0.274,0.049
+64,CONTIGO (with Tiësto),"KAROL G, Tiësto",Solista,Colombia,Urbano latino (reggaetón / trap latino),Fiesta urbana,62,Sí,Sí,2024-02-17,2024-04-28,49,3.21,0.846,0.545,0.268,122.0,0.178,0.074
+65,COQUETA,"Fuerza Regida, Grupo Frontera",Sin dato,Sin dato,Sin dato,Fiesta urbana,40,Sí,No (censurada),2025-05-03,2025-06-11,48,4.03,0.74,0.819,0.884,79.0,0.244,0.087
+66,Corazón Roto - Remix,"Brray, Jhayco, Ryan Castro",Sin dato,Sin dato,Sin dato,Fiesta urbana,32,Sí,Sí,2023-10-30,2023-12-01,50,4.58,0.843,0.794,0.796,93.0,0.226,0.043
+67,Cosa Nuestra,Rauw Alejandro,Solista,Puerto Rico,Urbano latino (reggaetón / trap latino),Fiesta urbana,1,No,Sí,2024-11-17,2024-11-17,43,4.34,0.688,0.679,0.739,172.0,0.342,0.069
+68,Cosas Pendientes,Maluma,Sin dato,Sin dato,Sin dato,Fiesta urbana,54,Sí,Sí,2024-11-24,2025-02-09,35,3.07,0.835,0.67,0.78,82.0,0.261,0.056
+69,CRUZ,"Trueno, Feid",Sin dato,Sin dato,Sin dato,Urbano rapeado (trap),1,No,Sí,2025-02-08,2025-02-08,50,3.07,0.792,0.594,0.854,81.0,0.458,0.23
+70,Cual Adios,La Única Tropical,Agrupación,Perú,Tropical (cumbia / salsa / bachata),Fiesta urbana,61,Sí,Sí,2024-05-05,2025-01-02,50,3.43,0.641,0.731,0.869,108.0,0.078,0.032
+71,Cuando Te Vi | CROSSOVER #5,"Big One, Maria Becerra, Trueno",Solista,Argentina,Sin dato,Fiesta urbana,52,Sí,Sí,2024-07-04,2024-08-24,50,3.64,0.816,0.76,0.626,100.0,0.153,0.059
+72,Cuéntame,Pedro Suárez-Vértiz,Sin dato,Sin dato,Sin dato,Fiesta urbana,16,Sí,Sí,2023-12-30,2024-01-14,9,3.98,0.569,0.951,0.781,167.5,0.34,0.073
+73,Culiacan,"Engel Montaz, Kuv507, Latinnites Music",Sin dato,Sin dato,Sin dato,Fiesta urbana,11,Sí,Sí,2024-02-18,2024-03-02,41,2.86,0.701,0.567,0.97,145.0,0.477,0.042
+74,Cúrame,Rauw Alejandro,Solista,Puerto Rico,Urbano latino (reggaetón / trap latino),Baladas acústicas,72,Sí,Sí,2024-06-11,2024-08-21,50,2.75,0.765,0.625,0.262,102.1,0.584,0.055
+75,CYBERTRUCK,Bad Bunny,Solista,Puerto Rico,Urbano latino (reggaetón / trap latino),Urbano rapeado (trap),2,No,No (censurada),2023-10-18,2023-10-19,49,3.2,0.704,0.905,0.099,151.8,0.371,0.338
+76,D Vn Plomazo,"26is, Louis Producer",Solista,Perú,Sin dato,Urbano rapeado (trap),3,No,Sí,2025-04-19,2025-04-21,50,2.12,0.574,0.606,0.608,96.2,0.166,0.393
+77,Daytona,Cris Mj,Solista,Chile,Sin dato,Fiesta urbana,110,Sí,Sí,2024-02-26,2024-06-26,49,2.9,0.776,0.737,0.547,97.0,0.098,0.064
+78,Degeneración Actual,Pedro Suárez-Vértiz,Sin dato,Sin dato,Sin dato,Fiesta urbana,2,No,Sí,2023-12-31,2024-01-01,34,5.27,0.763,0.891,0.947,142.0,0.277,0.04
+79,DEGENERE 👑 (feat. benny blanco),"Myke Towers, benny blanco",Solista,Puerto Rico,Urbano latino (reggaetón / trap latino),Urbano rapeado (trap),152,Sí,Sí,2024-10-21,2025-04-01,43,2.18,0.744,0.709,0.712,194.1,0.05,0.284
+80,Déjala Que Vuelva (feat. Manuel Turizo),"Piso 21, Manuel Turizo",Agrupación,Colombia,Urbano latino (reggaetón / trap latino),Fiesta urbana,112,Sí,No (censurada),2023-10-18,2024-11-08,50,3.67,0.681,0.788,0.839,170.0,0.048,0.078
+81,Déjame Entrar,Rauw Alejandro,Solista,Puerto Rico,Urbano latino (reggaetón / trap latino),Baladas acústicas,1,No,Sí,2024-11-17,2024-11-17,42,4.25,0.675,0.697,0.262,102.0,0.343,0.048
+82,Déjame Pensar,"Cris Mj, FloyyMenor, Panda Black",Solista,Chile,Sin dato,Fiesta urbana,1,No,Sí,2024-09-23,2024-09-23,46,3.52,0.757,0.666,0.516,100.0,0.106,0.051
+83,Demo 5 Nostalgia Intro - Remix,Renzo Pianciola,Solista,Sin dato,Sin dato,Fiesta urbana,1,No,Sí,2023-11-11,2023-11-11,39,3.58,0.713,0.79,0.784,90.0,0.009,0.048
+84,DEPORTIVO,"Blessd, Anuel AA, Ovy On The Drums",Sin dato,Sin dato,Sin dato,Fiesta urbana,107,Sí,Sí,2025-01-03,2025-05-01,43,3.65,0.816,0.762,0.782,90.0,0.534,0.056
+85,Desconocidos,"Mau y Ricky, Manuel Turizo, Camilo",Sin dato,Sin dato,Sin dato,Fiesta urbana,3,No,Sí,2025-02-21,2025-04-08,50,3.41,0.719,0.753,0.675,174.1,0.118,0.179
+86,Desesperados,"Rauw Alejandro, Chencho Corleone",Solista,Puerto Rico,Urbano latino (reggaetón / trap latino),Fiesta urbana,201,Sí,Sí,2024-03-16,2024-10-17,49,3.75,0.869,0.694,0.511,90.0,0.356,0.078
+87,Después De La 1,"Cris Mj, FloyyMenor, LOUKI",Solista,Chile,Sin dato,Fiesta urbana,92,Sí,Sí,2024-09-15,2024-12-27,48,2.96,0.805,0.581,0.528,100.0,0.03,0.06
+88,Dia de Enero,Shakira,Solista,Colombia,Pop latino / balada,Baladas acústicas,4,No,Sí,2024-10-12,2024-10-16,48,2.89,0.687,0.361,0.526,165.7,0.35,0.079
+89,Die With A Smile,"Lady Gaga, Bruno Mars",Solista,EE.UU.,"Pop / anglo (pop, hip-hop, R&B, rock, electrónica)",Baladas acústicas,278,Sí,No (censurada),2024-08-20,2025-06-11,29,4.19,0.52,0.595,0.523,158.0,0.302,0.031
+90,Dile,Don Omar,Solista,Puerto Rico,Urbano latino (reggaetón / trap latino),Fiesta urbana,35,Sí,Sí,2024-03-10,2024-04-16,49,3.41,0.817,0.714,0.714,94.0,0.184,0.141
+91,Dile al Amor,Aventura,Sin dato,Sin dato,Sin dato,Fiesta urbana,10,Sí,Sí,2024-05-23,2024-10-21,41,3.81,0.824,0.61,0.945,124.0,0.078,0.037
+92,Diles,"Bad Bunny, Ozuna, Farruko, Arcángel, Ñengo Flow, DJ Luian, Mambo Kingz",Solista,Puerto Rico,Urbano latino (reggaetón / trap latino),Fiesta urbana,10,Sí,No (censurada),2025-06-02,2025-06-11,42,4.77,0.813,0.56,0.287,118.0,0.108,0.062
+93,DILUVIO,Rauw Alejandro,Solista,Puerto Rico,Urbano latino (reggaetón / trap latino),Fiesta urbana,195,Sí,Sí,2023-11-15,2024-10-23,50,3.28,0.845,0.795,0.681,95.0,0.343,0.068
+94,Doblexxó,"J Balvin, Feid",Solista,Colombia,Urbano latino (reggaetón / trap latino),Fiesta urbana,55,Sí,Sí,2024-08-11,2024-10-06,50,2.95,0.787,0.775,0.826,99.0,0.037,0.07
+95,Don’t Say You Love Me,Jin,Sin dato,Sin dato,Sin dato,Fiesta urbana,26,Sí,No (censurada),2025-05-17,2025-06-11,36,3.01,0.729,0.562,0.757,112.0,0.484,0.03
+96,DROGA,"Mora, C. Tangana",Agrupación,SE,"Pop / anglo (pop, hip-hop, R&B, rock, electrónica)",Fiesta urbana,7,No,Sí,2025-05-20,2025-05-29,31,3.71,0.695,0.848,0.878,76.0,0.383,0.057
+97,DtMF,Bad Bunny,Solista,Puerto Rico,Urbano latino (reggaetón / trap latino),Baladas acústicas,149,Sí,No (censurada),2025-01-06,2025-06-11,41,3.95,0.625,0.131,0.032,136.0,0.177,0.072
+98,El Amor de tu Vida (feat. Lenny Tavárez & Best) - Remix,"Gino Mella, Jairo Vera, Yandel, Lenny Tavárez, Best",Solista,Chile,Sin dato,Fiesta urbana,15,Sí,Sí,2024-02-21,2024-03-06,37,4.51,0.823,0.864,0.89,100.0,0.118,0.047
+99,EL CLúB,Bad Bunny,Solista,Puerto Rico,Urbano latino (reggaetón / trap latino),Baladas acústicas,89,Sí,Sí,2024-12-09,2025-03-08,19,3.71,0.516,0.611,0.261,110.7,0.458,0.056
+100,El Perdedor,Aventura,Sin dato,Sin dato,Sin dato,Fiesta urbana,53,Sí,Sí,2024-05-22,2024-11-08,50,3.59,0.779,0.589,0.894,128.0,0.332,0.034
+101,El Perdedor,Maluma,Sin dato,Sin dato,Sin dato,Fiesta urbana,4,No,Sí,2025-02-24,2025-03-17,50,3.44,0.702,0.73,0.879,174.0,0.425,0.099
+102,El Ritmo de Mi Corazón,Grupo 5,Agrupación,Perú,Tropical (cumbia / salsa / bachata),Fiesta urbana,2,No,Sí,2024-01-03,2024-05-13,35,3.67,0.664,0.878,0.927,106.5,0.025,0.036
+103,En Otra Vida,"Yami Safdie, Lasso",Solista,Argentina,Pop latino / balada,Baladas acústicas,51,Sí,Sí,2024-10-30,2025-01-03,50,2.56,0.459,0.162,0.483,184.8,0.929,0.042
+104,ENAMORA2,Fer Ariza,Solista,Colombia,Urbano latino (reggaetón / trap latino),Fiesta urbana,7,No,Sí,2025-05-24,2025-05-31,45,3.37,0.834,0.876,0.59,122.0,0.092,0.124
+105,Encantadora,Yandel,Sin dato,Sin dato,Sin dato,Fiesta urbana,1,No,Sí,2025-05-03,2025-05-03,50,4.0,0.662,0.874,0.926,169.9,0.147,0.047
+106,EoO,Bad Bunny,Solista,Puerto Rico,Urbano latino (reggaetón / trap latino),Baladas acústicas,149,Sí,No (censurada),2025-01-06,2025-06-11,38,3.41,0.36,0.464,0.184,63.7,0.749,0.07
+107,Eres Mía,Romeo Santos,Solista,EE.UU.,Tropical (cumbia / salsa / bachata),Fiesta urbana,2,No,Sí,2024-10-20,2024-10-26,47,4.18,0.843,0.729,0.903,123.0,0.401,0.037
+108,Es un Secreto,Plan B,Sin dato,Sin dato,Sin dato,Fiesta urbana,523,Sí,No (censurada),2023-10-18,2025-06-11,47,3.18,0.841,0.77,0.507,95.0,0.112,0.043
+109,Escápate Conmigo - Remix,"Wolfine, Ñejo",Solista,Colombia,Urbano latino (reggaetón / trap latino),Fiesta urbana,95,Sí,No (censurada),2023-10-18,2024-02-20,22,2.79,0.826,0.881,0.737,94.0,0.191,0.097
+110,Espresso,Sabrina Carpenter,Solista,EE.UU.,"Pop / anglo (pop, hip-hop, R&B, rock, electrónica)",Fiesta urbana,116,Sí,Sí,2024-04-30,2024-09-30,41,2.92,0.701,0.76,0.69,104.0,0.108,0.029
+111,Espresso Martini,"Rauw Alejandro, Marconi Impara, Yan Block",Solista,Puerto Rico,Urbano latino (reggaetón / trap latino),Baladas acústicas,1,No,Sí,2024-11-17,2024-11-17,46,3.19,0.864,0.568,0.192,123.0,0.537,0.122
+112,Fanatica Sensual,Plan B,Sin dato,Sin dato,Sin dato,Fiesta urbana,1,No,Sí,2025-05-18,2025-05-18,49,4.0,0.807,0.853,0.892,82.0,0.106,0.051
+113,Feliz Cumpleaños Ferxxo,Feid,Sin dato,Sin dato,Urbano latino (reggaetón / trap latino),Fiesta urbana,463,Sí,No (censurada),2023-10-18,2025-02-23,31,2.6,0.865,0.573,0.563,95.0,0.086,0.068
+114,Feliz Navidad,José Feliciano,Solista,EE.UU.,Pop latino / balada,Fiesta urbana,2,No,Sí,2023-12-27,2024-12-26,9,3.03,0.513,0.831,0.963,148.8,0.55,0.038
+115,FINA,"Bad Bunny, Young Miko",Solista,Puerto Rico,Urbano latino (reggaetón / trap latino),Urbano rapeado (trap),55,Sí,No (censurada),2023-10-18,2023-12-16,6,3.61,0.847,0.724,0.396,94.6,0.087,0.298
+116,Fortnight (feat. Post Malone),"Taylor Swift, Post Malone",Solista,EE.UU.,"Pop / anglo (pop, hip-hop, R&B, rock, electrónica)",Baladas acústicas,6,No,Sí,2024-04-22,2024-04-27,42,3.82,0.675,0.397,0.319,96.0,0.499,0.025
+117,Frágil,"Yahritza Y Su Esencia, Grupo Frontera",Sin dato,Sin dato,Sin dato,Baladas acústicas,54,Sí,No (censurada),2023-10-18,2023-12-29,38,2.68,0.605,0.726,0.393,149.9,0.365,0.031
+118,frente al mar,Beéle,Solista,Colombia,Urbano latino (reggaetón / trap latino),Fiesta urbana,117,Sí,No (censurada),2024-10-23,2025-06-11,50,2.75,0.75,0.682,0.618,100.0,0.168,0.094
+119,FRI(END)S,V,Agrupación,EE.UU.,"Pop / anglo (pop, hip-hop, R&B, rock, electrónica)",Fiesta urbana,6,No,Sí,2024-03-16,2024-03-22,24,2.47,0.466,0.601,0.627,53.4,0.032,0.053
+120,Fruto,"Bizarrap, Milo j",Sin dato,Sin dato,Sin dato,Urbano rapeado (trap),122,Sí,No (censurada),2023-10-18,2024-02-23,9,2.2,0.801,0.517,0.923,160.3,0.494,0.269
+121,Gata Only (Mashup),Dj Agus Lima,Sin dato,Sin dato,Sin dato,Fiesta urbana,2,No,Sí,2024-05-08,2024-05-09,2,3.59,0.782,0.521,0.737,100.0,0.395,0.053
+122,Gata Only,"FloyyMenor, Cris Mj",Solista,Chile,Sin dato,Fiesta urbana,279,Sí,Sí,2024-02-12,2025-01-05,50,3.7,0.792,0.499,0.665,100.0,0.443,0.05
+123,GATITAS SANDUNGUERAS VOL.1,"Alvaro Diaz, Feid",Solista,Puerto Rico,Urbano latino (reggaetón / trap latino),Fiesta urbana,75,Sí,Sí,2024-05-18,2024-08-01,39,2.2,0.769,0.842,0.417,97.0,0.169,0.045
+124,GRACIAS POR NADA,Bad Bunny,Solista,Puerto Rico,Urbano latino (reggaetón / trap latino),Urbano rapeado (trap),3,No,No (censurada),2023-10-18,2023-10-20,43,2.96,0.778,0.555,0.271,143.9,0.325,0.231
+125,Hasta Aquí Llegué,"Nanpa Básico, Beéle",Solista,Sin dato,Sin dato,Urbano rapeado (trap),188,Sí,No (censurada),2024-07-31,2025-06-11,46,3.15,0.641,0.657,0.411,100.0,0.538,0.218
+126,Hate You,Jung Kook,Solista,Corea del Sur,K-pop,Baladas acústicas,2,No,Sí,2023-11-05,2023-11-06,32,2.57,0.419,0.274,0.25,79.6,0.862,0.031
+127,Heather,Conan Gray,Solista,EE.UU.,"Pop / anglo (pop, hip-hop, R&B, rock, electrónica)",Baladas acústicas,1,No,Sí,2023-12-05,2023-12-05,29,3.3,0.357,0.425,0.27,102.1,0.584,0.033
+128,Hey Mor,"Ozuna, Feid",Sin dato,Sin dato,Urbano latino (reggaetón / trap latino),Urbano rapeado (trap),163,Sí,No (censurada),2023-10-18,2024-04-02,37,3.28,0.901,0.589,0.399,98.0,0.003,0.289
+129,HIBIKI,"Bad Bunny, Mora",Solista,Puerto Rico,Urbano latino (reggaetón / trap latino),Baladas acústicas,18,Sí,No (censurada),2023-10-18,2023-11-04,18,3.47,0.801,0.645,0.528,119.9,0.604,0.071
+130,Hiekka,"Nicky Jam, Beéle",Solista,Puerto Rico,Urbano latino (reggaetón / trap latino),Fiesta urbana,29,Sí,No (censurada),2025-05-14,2025-06-11,48,3.56,0.724,0.726,0.332,107.9,0.045,0.042
+131,Hijo En La Disco 2,J-King y Maximan,Sin dato,Sin dato,Sin dato,Fiesta urbana,6,No,Sí,2025-02-10,2025-02-15,44,3.3,0.803,0.774,0.501,95.0,0.105,0.105
+132,Holanda,Jhayco,Solista,Puerto Rico,Urbano latino (reggaetón / trap latino),Fiesta urbana,73,Sí,No (censurada),2023-10-18,2023-12-30,28,3.86,0.831,0.759,0.244,108.0,0.277,0.05
+133,Hoy,"Valentino Merlo, The La Planta",Solista,Argentina,Sin dato,Fiesta urbana,3,No,Sí,2024-09-04,2024-09-10,49,3.31,0.451,0.711,0.661,176.2,0.24,0.043
+134,Hoy Te Voy a Olvidar,"Cesar BK, Alvaro Rod",Solista,Perú,Sin dato,Fiesta urbana,2,No,Sí,2023-12-07,2024-01-02,31,2.3,0.519,0.591,0.806,92.8,0.109,0.066
+135,"Huepa Eh, Huepa Eh",Los Toribianitos,Sin dato,Sin dato,Sin dato,Urbano rapeado (trap),1,No,Sí,2024-12-26,2024-12-26,47,4.21,0.591,0.622,0.618,199.9,0.494,0.226
+136,i like the way you kiss me,Artemas,Solista,Reino Unido,"Pop / anglo (pop, hip-hop, R&B, rock, electrónica)",Fiesta urbana,32,Sí,Sí,2024-04-14,2024-05-18,49,2.38,0.599,0.946,0.747,151.6,0.001,0.045
+137,Igual Que Un Ángel (with Peso Pluma),"Kali Uchis, Peso Pluma",Solista,EE.UU.,Pop latino / balada,Fiesta urbana,61,Sí,Sí,2024-01-15,2024-03-16,39,4.34,0.685,0.61,0.464,108.0,0.003,0.034
+138,I’ll Be There,Jin,Sin dato,Sin dato,Sin dato,Fiesta urbana,18,Sí,Sí,2024-10-27,2024-11-27,18,3.03,0.538,0.738,0.736,148.9,0.035,0.044
+139,ILY,"Kapo, Myke Towers",Agrupación,Sin dato,Sin dato,Fiesta urbana,4,No,Sí,2025-03-14,2025-03-21,49,3.61,0.63,0.66,0.313,200.0,0.136,0.151
+140,Imagínate,"Danny Ocean, Kapo",Solista,EE.UU.,Urbano latino (reggaetón / trap latino),Fiesta urbana,176,Sí,No (censurada),2024-12-06,2025-06-11,41,2.84,0.779,0.737,0.445,101.9,0.134,0.109
+141,It's the Most Wonderful Time of the Year,Andy Williams,Solista,EE.UU.,"Pop / anglo (pop, hip-hop, R&B, rock, electrónica)",Baladas acústicas,2,No,Sí,2023-12-27,2024-12-26,30,2.52,0.237,0.562,0.712,201.7,0.818,0.039
+142,Jingle Bell Rock,Bobby Helms,Sin dato,Sin dato,Sin dato,Baladas acústicas,3,No,Sí,2023-12-27,2024-12-26,32,2.18,0.754,0.424,0.806,119.7,0.643,0.036
+143,KETU TeCRÉ,Bad Bunny,Solista,Puerto Rico,Urbano latino (reggaetón / trap latino),Baladas acústicas,33,Sí,Sí,2025-01-06,2025-02-07,22,4.18,0.27,0.277,0.082,111.4,0.018,0.048
+144,Khé?,"Rauw Alejandro, Romeo Santos",Solista,Puerto Rico,Urbano latino (reggaetón / trap latino),Urbano rapeado (trap),189,Sí,No (censurada),2024-11-17,2025-06-11,24,3.43,0.687,0.627,0.47,155.9,0.326,0.181
+145,KINTSUGI,HUMBE,Solista,Sin dato,Sin dato,Baladas acústicas,15,Sí,Sí,2024-09-29,2024-10-18,44,3.97,0.373,0.464,0.301,79.5,0.86,0.256
+146,KLOuFRENS,Bad Bunny,Solista,Puerto Rico,Urbano latino (reggaetón / trap latino),Baladas acústicas,149,Sí,No (censurada),2025-01-06,2025-06-11,25,3.32,0.326,0.125,0.306,107.0,0.703,0.148
+147,Kyoto,"Omar Courtz, De La Rose, Haze",Sin dato,Sin dato,Sin dato,Fiesta urbana,29,Sí,Sí,2024-10-01,2025-04-07,50,4.13,0.732,0.753,0.405,95.0,0.235,0.051
+148,La Bachata,Manuel Turizo,Solista,Colombia,Urbano latino (reggaetón / trap latino),Fiesta urbana,401,Sí,No (censurada),2023-10-18,2025-02-09,34,2.71,0.835,0.679,0.85,125.0,0.583,0.036
+149,La Bebe - Remix,"Yng Lvcas, Peso Pluma",Solista,Sin dato,Sin dato,Urbano rapeado (trap),125,Sí,Sí,2023-10-22,2024-05-01,50,3.91,0.812,0.479,0.559,169.9,0.213,0.333
+150,LA CANCIÓN,"J Balvin, Bad Bunny",Solista,Colombia,Urbano latino (reggaetón / trap latino),Urbano rapeado (trap),380,Sí,No (censurada),2024-03-08,2025-06-11,50,4.04,0.756,0.646,0.429,176.1,0.152,0.319
+151,La Canción Feliz Del Disco,"Eladio Carrion, Milo j",Sin dato,Sin dato,Sin dato,Fiesta urbana,1,No,Sí,2024-01-21,2024-01-21,49,2.89,0.782,0.664,0.892,140.0,0.202,0.06
+152,La Curiosidad,"Jay Wheeler, DJ Nelson, Myke Towers",Solista,Puerto Rico,Urbano latino (reggaetón / trap latino),Fiesta urbana,238,Sí,Sí,2023-11-18,2024-10-07,50,3.65,0.845,0.677,0.68,90.0,0.269,0.136
+153,La Diabla,Xavi,Solista,Sin dato,Sin dato,Fiesta urbana,95,Sí,Sí,2024-01-15,2024-04-22,43,2.87,0.751,0.819,0.697,131.8,0.255,0.041
+154,La Encontré,"Vallejo Music, Pasabordo",Sin dato,Sin dato,Sin dato,Fiesta urbana,7,No,Sí,2024-12-10,2024-12-16,44,2.54,0.703,0.872,0.738,124.8,0.15,0.112
+155,LA FALDA,Myke Towers,Solista,Puerto Rico,Urbano latino (reggaetón / trap latino),Fiesta urbana,327,Sí,Sí,2024-01-02,2024-11-27,49,2.9,0.8,0.738,0.267,103.0,0.372,0.069
+156,LA INOCENTE,"Mora, Feid",Agrupación,SE,"Pop / anglo (pop, hip-hop, R&B, rock, electrónica)",Fiesta urbana,154,Sí,Sí,2023-10-20,2024-03-29,45,3.37,0.757,0.789,0.464,91.9,0.307,0.058
+157,LA MuDANZA,Bad Bunny,Solista,Puerto Rico,Urbano latino (reggaetón / trap latino),Baladas acústicas,27,Sí,Sí,2025-01-06,2025-02-01,50,3.55,0.565,0.926,0.971,174.0,0.975,0.057
+158,La Muralla Verde,Los Enanitos Verdes,Sin dato,Sin dato,Sin dato,Fiesta urbana,30,Sí,Sí,2024-06-20,2024-10-18,47,2.69,0.717,0.837,0.919,129.9,0.155,0.028
+159,La Navidad,Los Niños Cantores de Huaraz,Agrupación,Sin dato,Sin dato,Fiesta urbana,1,No,Sí,2024-12-26,2024-12-26,49,3.83,0.609,0.7,0.808,106.0,0.028,0.033
+160,La Plena - W Sound 05,"W Sound, Beéle, Ovy On The Drums",Sin dato,Sin dato,Sin dato,Fiesta urbana,96,Sí,No (censurada),2025-02-28,2025-06-11,34,2.5,0.894,0.643,0.659,99.0,0.543,0.132
+161,LA RANGER (feat. Myke Towers),"The Academy: Segunda Misión, Sech, Justin Quiles, Lenny Tavárez, Dalex, Dímelo Flow, Myke Towers",Agrupación,Sin dato,Sin dato,Fiesta urbana,70,Sí,Sí,2024-03-30,2024-06-09,16,3.83,0.827,0.677,0.599,92.0,0.053,0.072
+162,La Triple M,Mawell,Sin dato,Sin dato,Sin dato,Fiesta urbana,87,Sí,No (censurada),2023-10-18,2024-01-12,25,3.35,0.789,0.807,0.663,105.0,0.33,0.087
+163,La Vida Sin Ti,"Rels B, Lia Kali",Solista,España,Sin dato,Urbano rapeado (trap),20,Sí,Sí,2024-04-26,2024-05-19,44,2.74,0.637,0.384,0.244,81.7,0.478,0.473
+164,LALA,Myke Towers,Solista,Puerto Rico,Urbano latino (reggaetón / trap latino),Fiesta urbana,283,Sí,No (censurada),2023-10-18,2024-11-09,4,3.3,0.708,0.737,0.607,92.0,0.074,0.044
+165,Last Christmas,Wham!,Agrupación,Reino Unido,"Pop / anglo (pop, hip-hop, R&B, rock, electrónica)",Fiesta urbana,4,No,Sí,2023-12-26,2024-12-26,33,4.43,0.734,0.538,0.941,107.7,0.2,0.029
+166,LATINA FOREVA,KAROL G,Solista,Colombia,Urbano latino (reggaetón / trap latino),Fiesta urbana,12,Sí,Sí,2025-05-27,2025-06-08,48,2.66,0.806,0.715,0.5,97.9,0.012,0.054
+167,LATTE (feat. Maria Becerra),"The Academy: Segunda Misión, Dalex, Lenny Tavárez, Sech, Justin Quiles, Dímelo Flow, Maria Becerra",Agrupación,Sin dato,Sin dato,Fiesta urbana,1,No,Sí,2024-03-30,2024-03-30,49,4.34,0.756,0.545,0.543,82.1,0.102,0.153
+168,Like Crazy,Jimin,Solista,Corea del Sur,K-pop,Fiesta urbana,184,Sí,No (censurada),2023-10-18,2024-07-02,27,3.54,0.629,0.733,0.362,120.0,0.002,0.042
+169,like JENNIE,JENNIE,Solista,Corea del Sur,K-pop,Fiesta urbana,17,Sí,Sí,2025-03-10,2025-05-13,47,2.06,0.811,0.743,0.815,130.0,0.281,0.061
+170,Llegó la Navidad,Coral Infantil Colegio Manuel Pardo Chiclayo,Sin dato,Sin dato,Sin dato,Baladas acústicas,2,No,Sí,2023-12-27,2024-12-26,48,2.43,0.743,0.471,0.874,106.0,0.577,0.033
+171,LO MISMO DE SIEMPRE,Mora,Agrupación,SE,"Pop / anglo (pop, hip-hop, R&B, rock, electrónica)",Baladas acústicas,1,No,Sí,2025-05-20,2025-05-20,35,3.25,0.395,0.546,0.406,149.8,0.634,0.035
+172,Lo Olvidé,Pedro Suárez-Vértiz,Sin dato,Sin dato,Sin dato,Baladas acústicas,4,No,Sí,2023-12-30,2024-01-02,41,3.98,0.683,0.441,0.505,76.0,0.529,0.026
+173,LO QUE LE PASÓ A HAWAii,Bad Bunny,Solista,Puerto Rico,Urbano latino (reggaetón / trap latino),Baladas acústicas,12,Sí,Sí,2025-01-07,2025-01-18,30,3.82,0.094,0.002,0.068,82.7,0.247,0.064
+174,Loco,Beéle,Solista,Colombia,Urbano latino (reggaetón / trap latino),Fiesta urbana,111,Sí,No (censurada),2024-06-14,2025-06-11,50,3.4,0.82,0.565,0.773,105.1,0.158,0.17
+175,Lollipop,Darell,Solista,Puerto Rico,Urbano latino (reggaetón / trap latino),Fiesta urbana,149,Sí,Sí,2023-10-20,2024-04-23,44,3.33,0.822,0.711,0.934,103.0,0.179,0.067
+176,Los del Espacio,"LIT killah, Tiago PZK, Maria Becerra, Duki, Emilia, Rusherking, Big One, FMK",Solista,Sin dato,Sin dato,Fiesta urbana,21,Sí,Sí,2023-10-21,2023-11-11,48,5.63,0.813,0.682,0.634,120.0,0.107,0.04
+177,Los Globos del Cielo,Pedro Suárez-Vértiz,Sin dato,Sin dato,Sin dato,Fiesta urbana,11,Sí,Sí,2023-12-30,2024-01-09,17,4.0,0.621,0.917,0.951,174.3,0.05,0.055
+178,LOS PITS,Bad Bunny,Solista,Puerto Rico,Urbano latino (reggaetón / trap latino),Urbano rapeado (trap),4,No,No (censurada),2023-10-18,2023-10-21,45,4.18,0.751,0.669,0.69,93.7,0.442,0.445
+179,Love Me Again,V,Agrupación,EE.UU.,"Pop / anglo (pop, hip-hop, R&B, rock, electrónica)",Fiesta urbana,1,No,Sí,2024-03-16,2024-03-16,50,3.04,0.633,0.607,0.363,74.0,0.183,0.053
+180,Luces Tenues,Anuel AA,Solista,Puerto Rico,Urbano latino (reggaetón / trap latino),Fiesta urbana,7,No,Sí,2024-01-20,2024-01-30,47,3.18,0.76,0.802,0.783,93.0,0.346,0.067
+181,Lucky,Barovier,Sin dato,Sin dato,Sin dato,Fiesta urbana,2,No,Sí,2024-12-16,2024-12-19,46,2.46,0.765,0.77,0.299,105.1,0.062,0.077
+182,LUNA,"Feid, ATL Jacob",Sin dato,Sin dato,Sin dato,Fiesta urbana,532,Sí,No (censurada),2023-12-06,2025-06-11,37,3.28,0.774,0.86,0.446,100.0,0.131,0.13
+183,LUNCH,Billie Eilish,Sin dato,Sin dato,Sin dato,Fiesta urbana,1,No,Sí,2024-05-25,2024-05-25,44,2.99,0.893,0.4,0.945,125.0,0.045,0.064
+184,luther (with sza),"Kendrick Lamar, SZA",Sin dato,Sin dato,Sin dato,Fiesta urbana,4,No,Sí,2025-02-14,2025-02-18,49,2.96,0.707,0.575,0.576,138.0,0.251,0.125
+185,LV Bag (feat. j-hope of BTS & Pharrell Williams),"Don Toliver, Speedy, j-hope, Pharrell Williams",Sin dato,Sin dato,Sin dato,Fiesta urbana,7,No,Sí,2025-02-22,2025-03-08,22,3.04,0.771,0.533,0.313,122.0,0.015,0.032
+186,Ma Meilleure Ennemie (from the series Arcane League of Legends),"Arcane, Stromae, Pomme",Sin dato,Sin dato,"Pop / anglo (pop, hip-hop, R&B, rock, electrónica)",Fiesta urbana,1,No,Sí,2024-12-09,2024-12-09,50,2.47,0.678,0.604,0.374,88.0,0.005,0.096
+187,Ma Meilleure Ennemie (from the series Arcane League of Legends),"Stromae, Pomme, Arcane",Solista,BE,"Pop / anglo (pop, hip-hop, R&B, rock, electrónica)",Fiesta urbana,2,No,Sí,2024-11-27,2024-12-06,25,2.47,0.678,0.604,0.374,88.0,0.005,0.096
+188,Machu Picchu,"Camilo, Evaluna Montaner",Solista,España,Pop latino / balada,Fiesta urbana,1,No,Sí,2025-04-03,2025-04-03,50,2.98,0.788,0.789,0.867,167.9,0.397,0.124
+189,M.A.I,Milo j,Solista,Argentina,"Pop / anglo (pop, hip-hop, R&B, rock, electrónica)",Baladas acústicas,139,Sí,Sí,2024-01-27,2024-07-28,50,3.07,0.364,0.572,0.514,80.4,0.758,0.034
+190,Mal Hombre,Kim Loaiza,Solista,Sin dato,Sin dato,Fiesta urbana,2,No,Sí,2023-10-27,2023-10-28,35,2.7,0.796,0.752,0.289,97.0,0.086,0.188
+191,Mamichula - con Nicki Nicole,"Trueno, Nicki Nicole, Bizarrap, Taiu, TATOOL",Sin dato,Sin dato,Sin dato,Baladas acústicas,172,Sí,Sí,2024-02-16,2024-08-09,24,3.65,0.696,0.678,0.346,92.0,0.582,0.074
+192,Mantra,JENNIE,Solista,Corea del Sur,K-pop,Fiesta urbana,6,No,Sí,2024-10-13,2024-10-26,45,2.28,0.894,0.725,0.838,117.0,0.004,0.043
+193,Maquillaje,"Renn, Yexel",Solista,Sin dato,Otros,Fiesta urbana,59,Sí,Sí,2024-04-03,2024-06-05,49,3.53,0.739,0.671,0.778,170.0,0.271,0.141
+194,MÁS QUE ALGO,"Mora, Omar Courtz",Agrupación,SE,"Pop / anglo (pop, hip-hop, R&B, rock, electrónica)",Baladas acústicas,1,No,Sí,2025-05-20,2025-05-20,38,4.04,0.564,0.619,0.403,103.0,0.737,0.05
+195,Me Elevé,Pedro Suárez-Vértiz,Sin dato,Sin dato,Sin dato,Baladas acústicas,2,No,Sí,2023-12-31,2024-01-01,45,3.68,0.566,0.24,0.238,125.5,0.845,0.032
+196,Me Estoy Enamorando,Pedro Suárez-Vértiz,Sin dato,Sin dato,Sin dato,Fiesta urbana,7,No,Sí,2023-12-30,2024-01-05,22,4.77,0.745,0.864,0.959,132.0,0.096,0.032
+197,Me Porto Bonito,"Bad Bunny, Chencho Corleone",Solista,Puerto Rico,Urbano latino (reggaetón / trap latino),Fiesta urbana,128,Sí,No (censurada),2023-10-18,2024-03-14,40,2.98,0.911,0.712,0.425,92.0,0.09,0.082
+198,Me Rehúso,Danny Ocean,Solista,EE.UU.,Urbano latino (reggaetón / trap latino),Fiesta urbana,330,Sí,No (censurada),2023-10-18,2025-06-11,36,3.43,0.744,0.804,0.426,104.8,0.023,0.068
+199,Me Toca A Mí,"Morat, Camilo",Agrupación,Colombia,Pop latino / balada,Fiesta urbana,1,No,Sí,2025-03-29,2025-03-29,33,3.01,0.628,0.857,0.695,131.9,0.001,0.03
+200,Me Voy,Julieta Venegas,Solista,México,"Pop / anglo (pop, hip-hop, R&B, rock, electrónica)",Fiesta urbana,15,Sí,Sí,2024-08-16,2024-09-28,50,3.13,0.575,0.679,0.601,107.9,0.066,0.028
+201,MERCEDES CAROTA,"Bad Bunny, YOVNGCHIMI",Solista,Puerto Rico,Urbano latino (reggaetón / trap latino),Urbano rapeado (trap),5,No,No (censurada),2023-10-18,2023-10-22,35,3.38,0.822,0.487,0.193,134.0,0.385,0.223
+202,MI EX TENÍA RAZÓN,KAROL G,Solista,Colombia,Urbano latino (reggaetón / trap latino),Fiesta urbana,423,Sí,No (censurada),2023-10-18,2025-01-05,17,2.57,0.634,0.725,0.795,159.8,0.078,0.059
+203,mi refe,"Beéle, Ovy On The Drums",Solista,Colombia,Urbano latino (reggaetón / trap latino),Urbano rapeado (trap),159,Sí,No (censurada),2024-12-27,2025-06-11,40,2.66,0.596,0.636,0.459,146.8,0.415,0.273
+204,miau,Young Cister,Sin dato,Sin dato,Sin dato,Fiesta urbana,45,Sí,Sí,2025-01-25,2025-03-10,48,3.1,0.592,0.741,0.795,85.8,0.091,0.06
+205,Miénteme,"TINI, Maria Becerra",Solista,Argentina,Urbano latino (reggaetón / trap latino),Fiesta urbana,8,Sí,Sí,2024-05-03,2024-06-29,50,2.75,0.85,0.546,0.906,92.0,0.161,0.065
+206,Mientes,Camila,Sin dato,Sin dato,Sin dato,Baladas acústicas,1,No,Sí,2024-09-13,2024-09-13,49,3.42,0.332,0.592,0.31,170.4,0.082,0.037
+207,MIENTRAS ME CURO DEL CORA,KAROL G,Solista,Colombia,Urbano latino (reggaetón / trap latino),Urbano rapeado (trap),7,No,Sí,2024-04-13,2024-04-19,39,2.74,0.523,0.477,0.57,79.9,0.855,0.392
+208,Milagros,KAROL G,Solista,Colombia,Urbano latino (reggaetón / trap latino),Urbano rapeado (trap),2,No,Sí,2025-05-17,2025-05-21,46,3.92,0.591,0.797,0.416,162.1,0.508,0.388
+209,"Milo J: Bzrp Music Sessions, Vol. 57","Bizarrap, Milo j",Sin dato,Sin dato,Sin dato,Urbano rapeado (trap),55,Sí,No (censurada),2023-10-18,2023-12-12,7,3.17,0.795,0.553,0.739,124.1,0.527,0.244
+210,Mírame,"Blessd, Ovy On The Drums",Sin dato,Sin dato,Sin dato,Fiesta urbana,270,Sí,Sí,2024-06-29,2025-05-01,45,2.62,0.717,0.656,0.695,176.0,0.141,0.08
+211,Mix Poco Yo: Sé Que Te Amo / Tu Traición / Otra Ocupa Mi Lugar / Te He Prometido - en vivo,Corazón Serrano,Agrupación,Perú,Tropical (cumbia / salsa / bachata),Fiesta urbana,8,Sí,Sí,2025-05-02,2025-06-09,45,6.6,0.523,0.852,0.737,92.2,0.268,0.034
+212,Mix Que Bonito/Ay Amor,"Son del Duke, Kate Candela",Sin dato,Sin dato,Sin dato,Fiesta urbana,81,Sí,Sí,2025-03-09,2025-06-07,48,5.04,0.609,0.851,0.686,96.0,0.016,0.032
+213,MOJABI GHOST,"Tainy, Bad Bunny",Solista,Puerto Rico,Urbano latino (reggaetón / trap latino),Fiesta urbana,12,Sí,No (censurada),2023-10-18,2023-10-30,44,3.87,0.805,0.707,0.744,122.0,0.142,0.035
+214,MONA LISA,j-hope,Sin dato,Sin dato,Sin dato,Fiesta urbana,31,Sí,Sí,2025-03-22,2025-04-21,25,2.29,0.799,0.805,0.96,138.0,0.028,0.037
+215,MONACO,Bad Bunny,Solista,Puerto Rico,Urbano latino (reggaetón / trap latino),Fiesta urbana,88,Sí,No (censurada),2023-10-18,2024-01-13,3,4.45,0.787,0.621,0.13,139.1,0.15,0.068
+216,More,"Zion, Jory Boy, Ken-Y",Solista,EE.UU.,Sin dato,Fiesta urbana,18,Sí,No (censurada),2025-05-25,2025-06-11,49,4.01,0.688,0.786,0.868,172.1,0.202,0.096
+217,morena (Bonus Track),Beéle,Solista,Colombia,Urbano latino (reggaetón / trap latino),Fiesta urbana,36,Sí,Sí,2025-04-06,2025-06-10,49,3.15,0.737,0.682,0.676,104.1,0.155,0.13
+218,Moscow Mule,Bad Bunny,Solista,Puerto Rico,Urbano latino (reggaetón / trap latino),Fiesta urbana,18,Sí,Sí,2025-05-08,2025-05-26,50,4.1,0.804,0.674,0.292,100.0,0.294,0.033
+219,Motor Y Motivo,Grupo 5,Agrupación,Perú,Tropical (cumbia / salsa / bachata),Fiesta urbana,17,Sí,Sí,2023-12-27,2025-01-02,43,3.28,0.739,0.887,0.873,98.0,0.167,0.032
+220,MR. OCTOBER,Bad Bunny,Solista,Puerto Rico,Urbano latino (reggaetón / trap latino),Fiesta urbana,2,No,No (censurada),2023-10-18,2023-10-19,42,3.15,0.805,0.612,0.425,126.0,0.188,0.172
+221,NADIE SABE,Bad Bunny,Solista,Puerto Rico,Urbano latino (reggaetón / trap latino),Baladas acústicas,4,No,No (censurada),2023-10-18,2023-10-21,41,6.32,0.529,0.711,0.582,170.3,0.572,0.067
+222,"Natanael Cano: Bzrp Music Sessions, Vol. 59","Bizarrap, Natanael Cano",Sin dato,Sin dato,Sin dato,Fiesta urbana,2,No,Sí,2024-04-07,2024-04-08,50,2.6,0.474,0.72,0.715,166.7,0.083,0.068
+223,Navidad,Los Toribianitos,Sin dato,Sin dato,Sin dato,Baladas acústicas,2,No,Sí,2023-12-27,2024-12-26,35,3.73,0.668,0.56,0.602,143.2,0.69,0.033
+224,Navidad de los Pobres,Los Niños Cantores de Huaraz,Agrupación,Sin dato,Sin dato,Fiesta urbana,1,No,Sí,2024-12-26,2024-12-26,33,3.03,0.649,0.714,0.938,104.3,0.287,0.042
+225,Nena Maldición (feat. Lenny Tavárez),"Paulo Londra, Lenny Tavárez",Solista,Argentina,Urbano latino (reggaetón / trap latino),Baladas acústicas,5,No,No (censurada),2025-06-02,2025-06-11,48,3.79,0.566,0.531,0.367,119.0,0.192,0.072
+226,NEURON (with Gaeko & YOON MIRAE),"j-hope, Gaeko, YOON MIRAE",Sin dato,Sin dato,Sin dato,Fiesta urbana,1,No,Sí,2024-03-30,2024-03-30,44,4.55,0.669,0.9,0.699,93.9,0.081,0.253
+227,Neva Play (feat. RM of BTS),"Megan Thee Stallion, RM",Solista,EE.UU.,"Pop / anglo (pop, hip-hop, R&B, rock, electrónica)",Fiesta urbana,8,Sí,Sí,2024-09-07,2024-09-14,25,2.62,0.826,0.756,0.794,160.0,0.02,0.256
+228,Never Let Go,Jung Kook,Solista,Corea del Sur,K-pop,Fiesta urbana,3,No,Sí,2024-06-08,2024-06-10,24,2.78,0.664,0.773,0.173,129.9,0.048,0.069
+229,NO ME QUIERO CASAR,Bad Bunny,Solista,Puerto Rico,Urbano latino (reggaetón / trap latino),Fiesta urbana,6,No,No (censurada),2023-10-18,2025-01-04,48,3.76,0.914,0.698,0.757,99.0,0.32,0.115
+230,No Pensé Que Era Amor,Pedro Suárez-Vértiz,Sin dato,Sin dato,Sin dato,Baladas acústicas,4,No,Sí,2023-12-30,2024-01-02,44,3.88,0.626,0.233,0.339,93.1,0.623,0.029
+231,No Ponga Excusas,Cris Mj,Solista,Chile,Sin dato,Urbano rapeado (trap),32,Sí,Sí,2024-07-15,2024-10-10,50,2.75,0.608,0.514,0.6,99.7,0.385,0.188
+232,No soy Eterno,"Bizarrap, Milo j",Sin dato,Sin dato,Sin dato,Urbano rapeado (trap),21,Sí,No (censurada),2023-10-18,2023-11-08,33,2.52,0.564,0.402,0.628,121.5,0.44,0.329
+233,No Te Quieren Conmigo,"Gaby Music, Lunay, Luar La L",Solista,Puerto Rico,Sin dato,Fiesta urbana,97,Sí,Sí,2024-01-07,2024-04-14,49,4.2,0.76,0.646,0.576,97.9,0.361,0.068
+234,no tiene sentido,Beéle,Solista,Colombia,Urbano latino (reggaetón / trap latino),Fiesta urbana,23,Sí,No (censurada),2025-05-20,2025-06-11,46,2.63,0.671,0.596,0.497,122.0,0.087,0.056
+235,Normal,Feid,Sin dato,Sin dato,Urbano latino (reggaetón / trap latino),Fiesta urbana,306,Sí,Sí,2023-11-04,2025-01-01,50,2.86,0.709,0.56,0.541,170.1,0.034,0.171
+236,Nos Duele Tanto,Pascal,Sin dato,Sin dato,Sin dato,Fiesta urbana,205,Sí,Sí,2024-07-20,2025-03-25,25,2.35,0.74,0.568,0.406,130.0,0.056,0.048
+237,Not Like Us,Kendrick Lamar,Sin dato,Sin dato,Sin dato,Fiesta urbana,13,Sí,Sí,2025-02-11,2025-02-23,43,4.57,0.898,0.472,0.214,101.1,0.011,0.078
+238,NUBES,"De La Rose, Omar Courtz",Solista,Puerto Rico,Urbano latino (reggaetón / trap latino),Baladas acústicas,18,Sí,Sí,2025-04-10,2025-05-06,40,4.53,0.657,0.666,0.19,99.9,0.243,0.03
+239,NUBES,"ROSÉ, Omar Courtz",Solista,EE.UU.,Sin dato,Baladas acústicas,1,No,Sí,2025-05-02,2025-05-02,46,4.53,0.657,0.666,0.19,99.9,0.243,0.03
+240,Nueva Era,"Duki, Myke Towers",Solista,Argentina,Urbano latino (reggaetón / trap latino),Fiesta urbana,15,Sí,Sí,2024-11-03,2024-11-17,42,3.63,0.556,0.724,0.681,101.1,0.267,0.119
+241,NUEVAYoL,Bad Bunny,Solista,Puerto Rico,Urbano latino (reggaetón / trap latino),Baladas acústicas,149,Sí,No (censurada),2025-01-06,2025-06-11,4,3.06,0.142,0.195,0.12,137.9,0.265,0.139
+242,OA,"Anuel AA, Quevedo, Maluma, Mambo Kingz, DJ Luian",Solista,Puerto Rico,Urbano latino (reggaetón / trap latino),Fiesta urbana,70,Sí,Sí,2024-03-22,2024-06-02,50,3.92,0.813,0.866,0.647,100.0,0.17,0.085
+243,offline,"Young Miko, Feid",Solista,Puerto Rico,Urbano latino (reggaetón / trap latino),Fiesta urbana,185,Sí,Sí,2024-04-09,2024-10-12,39,3.37,0.794,0.729,0.54,93.0,0.181,0.111
+244,Oh Que Lokazo,"Cajo, George F",Sin dato,Sin dato,Sin dato,Urbano rapeado (trap),4,No,No (censurada),2025-06-08,2025-06-11,47,2.4,0.445,0.739,0.379,89.5,0.231,0.302
+245,Ohnana,Kapo,Agrupación,Sin dato,Sin dato,Baladas acústicas,169,Sí,Sí,2024-07-11,2025-01-13,49,2.61,0.775,0.581,0.658,105.0,0.617,0.108
+246,Ojitos Lindos,"Bad Bunny, Bomba Estéreo",Solista,Puerto Rico,Urbano latino (reggaetón / trap latino),Fiesta urbana,9,Sí,Sí,2025-05-11,2025-05-19,46,4.3,0.647,0.686,0.268,79.9,0.08,0.041
+247,OJITOS ROJOS,"Grupo Frontera, Ke Personajes",Sin dato,Sin dato,Sin dato,Fiesta urbana,193,Sí,No (censurada),2023-10-18,2024-05-01,30,3.69,0.721,0.782,0.77,90.0,0.251,0.045
+248,Ojos Tristes (with The Marías),"Selena Gomez, benny blanco, The Marías",Solista,EE.UU.,"Pop / anglo (pop, hip-hop, R&B, rock, electrónica)",Baladas acústicas,5,No,Sí,2025-04-01,2025-04-05,46,3.37,0.665,0.639,0.706,110.0,0.709,0.03
+249,OKI DOKI,KAROL G,Solista,Colombia,Urbano latino (reggaetón / trap latino),Fiesta urbana,71,Sí,Sí,2023-10-20,2024-04-24,47,2.4,0.843,0.728,0.581,106.0,0.202,0.055
+250,"One Of The Girls (with JENNIE, Lily Rose Depp)","The Weeknd, JENNIE, Lily-Rose Depp",Sin dato,Sin dato,Sin dato,Baladas acústicas,129,Sí,Sí,2024-01-16,2024-06-21,50,4.08,0.439,0.644,0.191,86.6,0.049,0.036
+251,orióN,"Boza, ELENA ROSE",Solista,Panamá,Sin dato,Fiesta urbana,310,Sí,Sí,2024-06-20,2025-05-18,50,4.02,0.857,0.705,0.874,105.0,0.322,0.183
+252,Out Of The Woods (Taylor's Version),Taylor Swift,Solista,EE.UU.,"Pop / anglo (pop, hip-hop, R&B, rock, electrónica)",Fiesta urbana,1,No,Sí,2023-10-29,2023-10-29,43,3.93,0.547,0.885,0.192,92.0,0.001,0.042
+253,Pa' Que Retozen,Tego Calderón,Solista,Puerto Rico,Urbano latino (reggaetón / trap latino),Fiesta urbana,154,Sí,Sí,2023-11-03,2024-05-21,50,2.53,0.815,0.856,0.872,92.0,0.4,0.122
+254,Parte & Choke,"Jombriel, Alex Krack, Jøtta",Solista,Sin dato,Sin dato,Urbano rapeado (trap),148,Sí,Sí,2024-12-30,2025-06-04,49,3.42,0.728,0.647,0.889,117.3,0.01,0.378
+255,PARTIDO EN DOS,La Única Tropical,Agrupación,Perú,Tropical (cumbia / salsa / bachata),Fiesta urbana,354,Sí,Sí,2024-04-01,2025-05-12,48,3.62,0.677,0.872,0.896,126.0,0.056,0.03
+256,Pégate,Standly,Sin dato,Sin dato,Sin dato,Fiesta urbana,57,Sí,Sí,2024-12-06,2025-02-02,29,3.1,0.829,0.819,0.826,98.0,0.3,0.055
+257,PELIGROSA,FloyyMenor,Solista,Chile,Sin dato,Fiesta urbana,166,Sí,Sí,2024-08-07,2025-03-02,50,2.25,0.763,0.518,0.805,100.0,0.222,0.063
+258,Perdóname,"La Factoria, Eddy Lover",Agrupación,Panamá,Urbano latino (reggaetón / trap latino),Fiesta urbana,3,No,Sí,2024-09-23,2024-11-03,49,4.04,0.67,0.821,0.384,95.0,0.251,0.033
+259,"Perdonarte, ¿Para Qué?","Los Ángeles Azules, Emilia",Sin dato,Sin dato,Sin dato,Fiesta urbana,73,Sí,Sí,2024-06-04,2024-08-16,48,3.23,0.672,0.702,0.615,90.0,0.168,0.031
+260,PERFuMITO NUEVO,"Bad Bunny, RaiNao",Solista,Puerto Rico,Urbano latino (reggaetón / trap latino),Baladas acústicas,53,Sí,Sí,2025-01-06,2025-02-27,15,3.34,0.513,0.03,0.557,120.0,0.996,0.07
+261,PERRO NEGRO,"Bad Bunny, Feid",Solista,Puerto Rico,Urbano latino (reggaetón / trap latino),Urbano rapeado (trap),473,Sí,No (censurada),2023-10-18,2025-05-19,1,2.71,0.911,0.778,0.345,96.1,0.089,0.262
+262,Piel,"Tiago PZK, Ke Personajes",Sin dato,Sin dato,Sin dato,Fiesta urbana,379,Sí,Sí,2024-03-18,2025-05-22,50,2.35,0.646,0.907,0.816,168.0,0.422,0.059
+263,PIToRRO DE COCO,Bad Bunny,Solista,Puerto Rico,Urbano latino (reggaetón / trap latino),Fiesta urbana,19,Sí,Sí,2024-12-28,2025-01-23,40,3.44,0.636,0.667,0.544,97.8,0.25,0.032
+264,Please Don't Change (feat. DJ Snake),"Jung Kook, DJ Snake",Solista,Corea del Sur,K-pop,Fiesta urbana,1,No,Sí,2023-11-05,2023-11-05,37,2.44,0.797,0.743,0.768,114.9,0.164,0.174
+265,Please Please Please,Sabrina Carpenter,Solista,EE.UU.,"Pop / anglo (pop, hip-hop, R&B, rock, electrónica)",Fiesta urbana,104,Sí,Sí,2024-06-11,2024-09-22,33,3.11,0.669,0.586,0.579,107.1,0.274,0.054
+266,PONTE LOKITA,"Katteyes, Kidd Voodoo, Swift 047",Sin dato,Sin dato,Sin dato,Fiesta urbana,105,Sí,No (censurada),2025-02-19,2025-06-11,50,3.06,0.771,0.725,0.791,98.0,0.274,0.059
+267,PoutPourri de Navidad,Los Toribianitos,Sin dato,Sin dato,Sin dato,Fiesta urbana,2,No,Sí,2023-12-27,2024-12-26,34,6.68,0.793,0.721,0.953,108.3,0.255,0.032
+268,Primera Cita,Carin Leon,Solista,Sin dato,Regional mexicano,Baladas acústicas,119,Sí,No (censurada),2023-10-18,2024-03-02,32,3.11,0.535,0.395,0.488,157.8,0.597,0.063
+269,Priti,"Danny Ocean, Sech",Solista,EE.UU.,Urbano latino (reggaetón / trap latino),Fiesta urbana,45,Sí,No (censurada),2025-04-17,2025-06-11,46,2.18,0.8,0.681,0.523,121.9,0.163,0.05
+270,PROVENZA,KAROL G,Solista,Colombia,Urbano latino (reggaetón / trap latino),Baladas acústicas,19,Sí,Sí,2023-12-06,2025-05-11,50,3.46,0.87,0.516,0.541,111.0,0.578,0.048
+271,Puro Corazón,Grupo 5,Agrupación,Perú,Tropical (cumbia / salsa / bachata),Fiesta urbana,1,No,Sí,2024-01-03,2024-01-03,38,3.15,0.677,0.695,0.815,94.1,0.272,0.03
+272,Q U E V A S H A C E R H O Y ?,"Omar Courtz, De La Rose",Sin dato,Sin dato,Sin dato,Urbano rapeado (trap),228,Sí,Sí,2024-09-28,2025-06-01,48,3.73,0.56,0.681,0.388,155.1,0.103,0.244
+273,QLONA,"KAROL G, Peso Pluma",Solista,Colombia,Urbano latino (reggaetón / trap latino),Urbano rapeado (trap),391,Sí,No (censurada),2023-10-18,2024-11-15,5,2.88,0.841,0.738,0.484,169.9,0.52,0.307
+274,Que Bonito / Ay Amor,Son del Duke,Sin dato,Sin dato,Sin dato,Fiesta urbana,4,No,Sí,2025-02-17,2025-05-12,50,6.74,0.556,0.785,0.618,96.6,0.121,0.034
+275,Qué Pasaría...,"Rauw Alejandro, Bad Bunny",Solista,Puerto Rico,Urbano latino (reggaetón / trap latino),Urbano rapeado (trap),189,Sí,No (censurada),2024-11-17,2025-06-11,7,3.18,0.833,0.563,0.343,105.0,0.528,0.204
+276,quédate,Beéle,Solista,Colombia,Urbano latino (reggaetón / trap latino),Fiesta urbana,14,Sí,No (censurada),2025-05-28,2025-06-11,46,2.94,0.608,0.633,0.549,111.9,0.294,0.137
+277,QUEMA,"Ryan Castro, Peso Pluma, SOG",Solista,Colombia,Urbano latino (reggaetón / trap latino),Fiesta urbana,23,Sí,Sí,2024-11-09,2024-12-17,38,2.52,0.819,0.861,0.905,97.0,0.029,0.049
+278,Quien Cura,Grupo 5,Agrupación,Perú,Tropical (cumbia / salsa / bachata),Fiesta urbana,1,No,Sí,2025-01-02,2025-01-02,47,3.53,0.731,0.786,0.83,98.0,0.272,0.028
+279,Quiero Besarte la Boca,LA NUEVA ESCUELA,Agrupación,Sin dato,Sin dato,Fiesta urbana,12,Sí,Sí,2025-02-26,2025-03-09,50,2.52,0.737,0.892,0.739,96.6,0.274,0.082
+280,"QUÍTENME EL TELÉFONO (feat. Yandel, Jay Wheeler)","The Academy: Segunda Misión, Sech, Lenny Tavárez, Justin Quiles, Dalex, Dímelo Flow, Yandel, Jay Wheeler",Agrupación,Sin dato,Sin dato,Fiesta urbana,45,Sí,Sí,2024-04-09,2024-05-26,38,3.9,0.756,0.649,0.74,180.0,0.058,0.088
+281,RAMEN PARA DOS,"Maria Becerra, Paulo Londra, XROSS",Solista,Argentina,Urbano latino (reggaetón / trap latino),Fiesta urbana,28,Sí,Sí,2025-05-10,2025-06-06,36,3.87,0.789,0.627,0.601,130.0,0.155,0.044
+282,Rara Vez,"Milo j, Taiu",Solista,Argentina,"Pop / anglo (pop, hip-hop, R&B, rock, electrónica)",Fiesta urbana,105,Sí,Sí,2024-09-13,2025-01-05,30,2.14,0.838,0.708,0.96,120.0,0.176,0.166
+283,Rara Vez,"Taiu, Milo j",Sin dato,Sin dato,Sin dato,Fiesta urbana,327,Sí,No (censurada),2023-10-18,2024-09-12,12,2.14,0.838,0.708,0.96,120.0,0.176,0.166
+284,Razones,"Ozuna, Anuel AA, Mambo Kingz, DJ Luian",Sin dato,Sin dato,Sin dato,Baladas acústicas,1,No,Sí,2024-07-02,2024-07-02,37,3.71,0.658,0.654,0.523,165.0,0.511,0.085
+285,REAL GANGSTA LOVE,Trueno,Sin dato,Sin dato,Sin dato,Fiesta urbana,211,Sí,Sí,2024-05-30,2025-01-05,45,2.42,0.831,0.643,0.57,97.0,0.388,0.057
+286,Reggaeton Champagne,"Bellakath, Dani Flow",Solista,México,Urbano latino (reggaetón / trap latino),Fiesta urbana,72,Sí,Sí,2023-11-12,2024-01-23,50,2.65,0.795,0.678,0.788,101.0,0.04,0.059
+287,Revolú,"Rauw Alejandro, Feid",Solista,Puerto Rico,Urbano latino (reggaetón / trap latino),Fiesta urbana,2,No,Sí,2024-11-17,2024-11-18,33,3.59,0.728,0.688,0.442,196.1,0.062,0.104
+288,"Ride Or Die, Pt. 2 (with Villano Antillano & Tokischa)","Sevdaliza, Villano Antillano, Tokischa",Sin dato,Sin dato,Sin dato,Fiesta urbana,76,Sí,Sí,2024-04-23,2024-07-07,44,2.65,0.768,0.723,0.555,140.0,0.085,0.065
+289,Rockin' Around The Christmas Tree,Brenda Lee,Solista,Sin dato,"Pop / anglo (pop, hip-hop, R&B, rock, electrónica)",Baladas acústicas,2,No,Sí,2023-12-27,2024-12-26,29,2.1,0.593,0.471,0.889,67.1,0.615,0.05
+290,Ronda de Navidad,Los Toribianitos,Sin dato,Sin dato,Sin dato,Fiesta urbana,1,No,Sí,2024-12-26,2024-12-26,38,3.58,0.73,0.803,0.796,123.6,0.15,0.035
+291,Ronda de Navidad / Llego la Navidad,Los Niños Cantores de Huaraz,Agrupación,Sin dato,Sin dato,Fiesta urbana,1,No,Sí,2024-12-26,2024-12-26,46,3.02,0.801,0.607,0.98,108.1,0.609,0.039
+292,Rosas,La Oreja de Van Gogh,Agrupación,España,Pop latino / balada,Baladas acústicas,67,Sí,Sí,2024-05-08,2024-10-19,50,3.94,0.783,0.687,0.537,107.0,0.626,0.027
+293,Running Wild,Jin,Sin dato,Sin dato,Sin dato,Fiesta urbana,57,Sí,Sí,2024-11-17,2025-03-14,23,2.53,0.487,0.711,0.317,146.9,0.0,0.032
+294,Santa,"Rvssian, Rauw Alejandro, Ayra Starr",Solista,JM,"Pop / anglo (pop, hip-hop, R&B, rock, electrónica)",Fiesta urbana,321,Sí,Sí,2024-04-17,2025-03-15,43,3.22,0.725,0.709,0.648,100.0,0.321,0.129
+295,Santa Claus Llegó a La Ciudad,Luis Miguel,Solista,México,Regional mexicano,Fiesta urbana,1,No,Sí,2024-12-26,2024-12-26,41,1.93,0.512,0.852,0.719,170.3,0.382,0.192
+296,Santa Tell Me,Ariana Grande,Solista,EE.UU.,"Pop / anglo (pop, hip-hop, R&B, rock, electrónica)",Fiesta urbana,2,No,Sí,2023-12-27,2024-12-26,38,3.4,0.525,0.621,0.591,191.9,0.049,0.116
+297,Se Fue,"Rauw Alejandro, Laura Pausini",Solista,Puerto Rico,Urbano latino (reggaetón / trap latino),Fiesta urbana,15,Sí,Sí,2024-11-17,2024-12-11,14,4.0,0.689,0.743,0.138,120.0,0.069,0.033
+298,SE ME OLVIDA,"Maisak, Feid",Solista,Sin dato,Sin dato,Fiesta urbana,263,Sí,No (censurada),2024-08-24,2025-06-11,14,3.76,0.786,0.707,0.691,82.0,0.04,0.064
+299,SEDA,"Bad Bunny, Bryant Myers",Solista,Puerto Rico,Urbano latino (reggaetón / trap latino),Baladas acústicas,11,Sí,No (censurada),2023-10-18,2023-10-28,29,3.17,0.706,0.566,0.23,125.9,0.268,0.126
+300,Según Quién,"Maluma, Carin Leon",Sin dato,Sin dato,Sin dato,Fiesta urbana,392,Sí,No (censurada),2023-10-18,2024-11-27,15,2.37,0.909,0.762,0.843,102.0,0.434,0.064
+301,Sensacion Del Bloque,De La Ghetto,Solista,Puerto Rico,Urbano latino (reggaetón / trap latino),Fiesta urbana,4,No,Sí,2024-03-31,2024-04-12,48,3.04,0.709,0.726,0.404,92.0,0.098,0.041
+302,Serpiente,Armonia 10,Agrupación,Sin dato,Tropical (cumbia / salsa / bachata),Fiesta urbana,4,No,Sí,2024-01-03,2025-01-02,37,2.02,0.758,0.765,0.976,135.0,0.146,0.032
+303,Seven (feat. Latto) (Explicit Ver.),"Jung Kook, Latto",Solista,Corea del Sur,K-pop,Fiesta urbana,197,Sí,No (censurada),2023-10-18,2024-09-03,16,3.07,0.791,0.831,0.874,125.0,0.312,0.044
+304,Shake It Off (Taylor's Version),Taylor Swift,Solista,EE.UU.,"Pop / anglo (pop, hip-hop, R&B, rock, electrónica)",Fiesta urbana,1,No,Sí,2023-10-29,2023-10-29,32,3.65,0.632,0.807,0.921,160.1,0.01,0.074
+305,Shot Glass of Tears,Jung Kook,Solista,Corea del Sur,K-pop,Baladas acústicas,1,No,Sí,2023-11-05,2023-11-05,50,2.79,0.507,0.394,0.164,78.0,0.508,0.035
+306,Si Antes Te Hubiera Conocido,KAROL G,Solista,Colombia,Urbano latino (reggaetón / trap latino),Fiesta urbana,337,Sí,No (censurada),2024-06-22,2025-06-11,13,3.26,0.924,0.668,0.787,128.0,0.446,0.047
+307,Si Escuchas a un Angel,Pedro Suárez-Vértiz,Sin dato,Sin dato,Sin dato,Fiesta urbana,1,No,Sí,2023-12-31,2023-12-31,44,3.02,0.763,0.529,0.963,107.2,0.043,0.034
+308,Si Esta Casa Hablara,La Única Tropical,Agrupación,Perú,Tropical (cumbia / salsa / bachata),Fiesta urbana,346,Sí,Sí,2024-04-22,2025-05-12,39,3.73,0.793,0.705,0.803,126.0,0.114,0.028
+309,Si Estuviésemos Juntos,Bad Bunny,Solista,Puerto Rico,Urbano latino (reggaetón / trap latino),Fiesta urbana,7,No,Sí,2024-03-01,2024-03-07,49,2.82,0.672,0.594,0.158,171.9,0.063,0.079
+310,SI NO ES CONTIGO,Cris Mj,Solista,Chile,Sin dato,Fiesta urbana,219,Sí,Sí,2024-05-27,2025-01-20,48,2.6,0.756,0.652,0.757,100.0,0.077,0.04
+311,Si No Estás,iñigo quintero,Solista,España,Sin dato,Baladas acústicas,130,Sí,No (censurada),2023-10-18,2024-02-24,2,3.07,0.537,0.421,0.524,98.2,0.827,0.028
+312,SI SABE FERXXO,"Blessd, Feid",Sin dato,Sin dato,Sin dato,Fiesta urbana,93,Sí,Sí,2024-01-28,2024-05-03,41,2.54,0.726,0.831,0.489,96.0,0.014,0.12
+313,"SI SI SI SI (feat. Eladio Carrion, Bryant Myers, Dei V)","The Academy: Segunda Misión, Justin Quiles, Sech, Lenny Tavárez, Dalex, Dímelo Flow, Eladio Carrion, Bryant Myers, Dei V",Agrupación,Sin dato,Sin dato,Fiesta urbana,1,No,Sí,2024-03-30,2024-03-30,42,4.03,0.659,0.655,0.529,90.0,0.167,0.08
+314,si te pillara,Beéle,Solista,Colombia,Urbano latino (reggaetón / trap latino),Baladas acústicas,1,No,No (censurada),2025-06-11,2025-06-11,43,3.08,0.503,0.673,0.343,103.8,0.59,0.077
+315,Si Veo a Tu Mamá,Bad Bunny,Solista,Puerto Rico,Urbano latino (reggaetón / trap latino),Fiesta urbana,4,No,Sí,2024-01-03,2025-01-04,40,2.85,0.9,0.603,0.824,129.9,0.402,0.065
+316,Smeraldo Garden Marching Band (feat. Loco),"Jimin, Loco",Solista,Corea del Sur,K-pop,Fiesta urbana,15,Sí,Sí,2024-06-29,2024-07-22,11,3.05,0.79,0.915,0.726,97.5,0.037,0.146
+317,sobelove,Beéle,Solista,Colombia,Urbano latino (reggaetón / trap latino),Fiesta urbana,81,Sí,No (censurada),2025-03-15,2025-06-11,46,2.2,0.756,0.721,0.715,112.0,0.36,0.191
+318,Sola (Remix),"Anuel AA, Daddy Yankee, Zion & Lennox, Farruko, Wisin",Solista,Puerto Rico,Urbano latino (reggaetón / trap latino),Fiesta urbana,34,Sí,Sí,2025-03-01,2025-06-06,50,5.13,0.639,0.869,0.767,169.8,0.27,0.147
+319,Solcito,"Miguel Bueno, Juan Duque",Solista,Sin dato,Sin dato,Baladas acústicas,72,Sí,No (censurada),2025-03-22,2025-06-11,39,2.4,0.762,0.57,0.735,100.0,0.669,0.071
+320,Soltera,Shakira,Solista,Colombia,Pop latino / balada,Fiesta urbana,112,Sí,Sí,2024-09-28,2025-03-06,43,3.58,0.841,0.752,0.67,100.1,0.167,0.105
+321,Soltera - W Sound 01,"W Sound, Blessd, Ovy On The Drums",Sin dato,Sin dato,Sin dato,Urbano rapeado (trap),66,Sí,Sí,2024-10-11,2025-01-01,50,2.37,0.734,0.578,0.88,200.0,0.155,0.295
+322,Somebody,Jung Kook,Solista,Corea del Sur,K-pop,Baladas acústicas,1,No,Sí,2023-11-05,2023-11-05,44,2.81,0.65,0.679,0.256,106.1,0.286,0.048
+323,SORRY 4 THAT MUCH - Bonus Track,Feid,Sin dato,Sin dato,Sin dato,Fiesta urbana,318,Sí,No (censurada),2024-06-08,2025-06-11,29,3.46,0.819,0.675,0.602,93.0,0.032,0.073
+324,Standing Next to You,Jung Kook,Solista,Corea del Sur,K-pop,Fiesta urbana,103,Sí,Sí,2023-11-05,2024-04-01,10,3.43,0.711,0.809,0.816,106.0,0.045,0.096
+325,Style (Taylor's Version),Taylor Swift,Solista,EE.UU.,"Pop / anglo (pop, hip-hop, R&B, rock, electrónica)",Fiesta urbana,1,No,Sí,2023-10-29,2023-10-29,19,3.85,0.575,0.824,0.292,95.0,0.0,0.038
+326,Sweet Dreams (feat. Miguel),"j-hope, Miguel",Sin dato,Sin dato,Sin dato,Fiesta urbana,20,Sí,Sí,2025-03-08,2025-03-28,37,2.88,0.564,0.577,0.797,94.3,0.153,0.077
+327,Taste,Sabrina Carpenter,Solista,EE.UU.,"Pop / anglo (pop, hip-hop, R&B, rock, electrónica)",Fiesta urbana,9,Sí,Sí,2024-08-29,2024-09-06,50,2.62,0.674,0.907,0.721,113.0,0.101,0.064
+328,TATTOO,La Única Tropical,Agrupación,Perú,Tropical (cumbia / salsa / bachata),Fiesta urbana,212,Sí,Sí,2024-10-13,2025-06-10,43,3.58,0.655,0.775,0.959,130.0,0.055,0.03
+329,Te Pintaron Pajaritos,"Yandar & Yostin, Andy Rivera",Agrupación,Colombia,Urbano latino (reggaetón / trap latino),Fiesta urbana,214,Sí,Sí,2023-11-02,2024-06-07,49,2.88,0.894,0.858,0.96,96.1,0.024,0.188
+330,Te Quería Ver,"Alemán, Neton Vega",Solista,Argentina,Otros,Fiesta urbana,74,Sí,No (censurada),2025-03-22,2025-06-11,47,2.94,0.804,0.762,0.448,100.0,0.187,0.066
+331,Te Siento de Sólo Pensar,Pedro Suárez-Vértiz,Sin dato,Sin dato,Sin dato,Fiesta urbana,4,No,Sí,2023-12-30,2024-01-02,38,3.38,0.814,0.402,0.92,126.0,0.25,0.052
+332,Te Vas Y No Volverás - En Vivo,Corazón Serrano,Agrupación,Perú,Tropical (cumbia / salsa / bachata),Fiesta urbana,1,No,Sí,2025-05-12,2025-05-12,50,3.13,0.58,0.913,0.649,92.0,0.561,0.034
+333,Te Vi,"Piso 21, Micro TDH",Agrupación,Colombia,Urbano latino (reggaetón / trap latino),Fiesta urbana,67,Sí,Sí,2024-10-03,2025-01-01,45,3.86,0.877,0.777,0.706,102.0,0.045,0.117
+334,TELEFONO NUEVO,"Bad Bunny, Luar La L",Solista,Puerto Rico,Urbano latino (reggaetón / trap latino),Urbano rapeado (trap),10,Sí,No (censurada),2023-10-18,2023-10-27,26,5.91,0.619,0.619,0.393,125.8,0.407,0.491
+335,TEMA DE JORY,Mora,Agrupación,SE,"Pop / anglo (pop, hip-hop, R&B, rock, electrónica)",Baladas acústicas,1,No,Sí,2025-05-20,2025-05-20,41,3.99,0.571,0.637,0.389,119.9,0.598,0.038
+336,The Emptiness Machine,Linkin Park,Sin dato,Sin dato,Sin dato,Fiesta urbana,5,No,Sí,2024-09-11,2024-09-15,50,3.17,0.466,0.872,0.806,184.1,0.016,0.034
+337,Tienes Que Nacer de Nuevo,"El Chulo, Dany Ome, Wampi, Kevincito El 13, Dj Alex, Lex White",Solista,Sin dato,Sin dato,Fiesta urbana,13,Sí,Sí,2024-02-04,2024-02-16,48,3.72,0.87,0.701,0.876,93.0,0.365,0.216
+338,Tiroteo - Remix,"Marc Seguí, Rauw Alejandro, Pol Granch",Sin dato,Sin dato,Otros,Fiesta urbana,106,Sí,No (censurada),2024-05-17,2025-06-11,49,5.36,0.75,0.522,0.601,110.4,0.282,0.029
+339,Todo Cambió,Camila,Sin dato,Sin dato,Sin dato,Baladas acústicas,38,Sí,Sí,2024-05-23,2024-08-10,50,3.23,0.452,0.523,0.363,173.8,0.563,0.062
+340,Tomar para Olvidar - Versión con Ernesto Pimentel,"Armonia 10, Ernesto Pimentel",Agrupación,Sin dato,Tropical (cumbia / salsa / bachata),Fiesta urbana,11,Sí,Sí,2024-04-22,2024-05-02,31,4.67,0.723,0.771,0.864,104.0,0.15,0.029
+341,TOO MUCH,"The Kid LAROI, Jung Kook, Central Cee",Sin dato,Sin dato,Sin dato,Fiesta urbana,2,No,Sí,2023-10-22,2023-10-25,41,3.4,0.758,0.703,0.465,95.0,0.252,0.172
+342,Too Sad to Dance,Jung Kook,Solista,Corea del Sur,K-pop,Baladas acústicas,1,No,Sí,2023-11-05,2023-11-05,47,2.93,0.558,0.467,0.563,100.5,0.611,0.081
+343,top diesel,Beéle,Solista,Colombia,Urbano latino (reggaetón / trap latino),Fiesta urbana,13,Sí,No (censurada),2025-05-30,2025-06-11,49,3.16,0.825,0.73,0.77,100.0,0.144,0.11
+344,Toy en el Mic,"Bizarrap, Milo j",Sin dato,Sin dato,Sin dato,Fiesta urbana,14,Sí,No (censurada),2023-10-18,2023-11-01,39,2.28,0.73,0.423,0.91,100.9,0.464,0.145
+345,TQG,"KAROL G, Shakira",Solista,Colombia,Urbano latino (reggaetón / trap latino),Urbano rapeado (trap),113,Sí,Sí,2023-10-20,2024-04-25,46,3.3,0.72,0.63,0.607,180.0,0.673,0.277
+346,Tu Amor fue una Mentira,Agua Marina,Agrupación,Perú,Sin dato,Fiesta urbana,4,No,Sí,2024-01-03,2024-11-12,39,3.61,0.761,0.517,0.926,102.0,0.346,0.034
+347,Tu Boda,"Oscar Maydon, Fuerza Regida",Solista,México,Sin dato,Baladas acústicas,67,Sí,Sí,2024-10-25,2025-01-09,38,3.76,0.694,0.651,0.471,112.6,0.496,0.078
+348,Tú Con El,Frankie Ruiz,Sin dato,Sin dato,Tropical (cumbia / salsa / bachata),Fiesta urbana,10,Sí,Sí,2024-12-24,2025-03-03,50,5.02,0.824,0.776,0.96,95.3,0.202,0.051
+349,Tú Con Él,Rauw Alejandro,Solista,Puerto Rico,Urbano latino (reggaetón / trap latino),Fiesta urbana,100,Sí,Sí,2024-11-17,2025-03-07,19,4.82,0.736,0.888,0.788,93.0,0.243,0.041
+350,TURiSTA,Bad Bunny,Solista,Puerto Rico,Urbano latino (reggaetón / trap latino),Urbano rapeado (trap),44,Sí,Sí,2025-01-06,2025-02-20,30,3.17,0.358,0.12,0.318,90.9,0.456,0.523
+351,Ultra Complicado,"Kenny Die, Sebas",Sin dato,Sin dato,Sin dato,Urbano rapeado (trap),74,Sí,Sí,2025-02-09,2025-05-01,49,2.94,0.614,0.428,0.385,90.1,0.471,0.508
+352,Un Finde | CROSSOVER #2,"Big One, FMK, Ke Personajes",Solista,Argentina,Sin dato,Fiesta urbana,231,Sí,No (censurada),2023-10-18,2024-06-08,11,2.71,0.504,0.542,0.84,192.1,0.101,0.06
+353,UN PREVIEW,Bad Bunny,Solista,Puerto Rico,Urbano latino (reggaetón / trap latino),Fiesta urbana,67,Sí,No (censurada),2023-10-18,2023-12-23,10,2.76,0.795,0.815,0.334,95.0,0.037,0.082
+354,"Un Vino, Una Cerveza",Pedro Suárez-Vértiz,Sin dato,Sin dato,Sin dato,Fiesta urbana,29,Sí,Sí,2023-12-30,2024-01-27,7,4.6,0.76,0.962,0.972,137.0,0.066,0.038
+355,un x100to,"Grupo Frontera, Bad Bunny",Sin dato,Sin dato,Sin dato,Fiesta urbana,148,Sí,No (censurada),2023-10-18,2025-01-10,19,3.24,0.571,0.72,0.542,83.8,0.213,0.046
+356,Una Foto Remix (feat. Emilia),"Mesita, Nicki Nicole, Tiago PZK, Emilia",Solista,EE.UU.,Sin dato,Fiesta urbana,233,Sí,Sí,2024-01-13,2024-09-05,49,4.06,0.76,0.703,0.739,96.0,0.313,0.063
+357,UNA NOCHE EN MEDELLÍN - REMIX,"KAROL G, Cris Mj, Ryan Castro",Solista,Colombia,Urbano latino (reggaetón / trap latino),Fiesta urbana,2,No,Sí,2024-04-13,2024-04-14,48,3.42,0.846,0.755,0.883,96.0,0.036,0.074
+358,Una Velita,Bad Bunny,Solista,Puerto Rico,Urbano latino (reggaetón / trap latino),Baladas acústicas,1,No,Sí,2024-09-22,2024-09-22,45,4.0,0.575,0.828,0.133,113.8,0.724,0.154
+359,Una Vida Pasada,"Camilo, Carin Leon",Solista,España,Pop latino / balada,Fiesta urbana,159,Sí,Sí,2024-04-22,2024-09-27,48,3.64,0.768,0.679,0.948,90.0,0.656,0.041
+360,Underneath the Tree,Kelly Clarkson,Solista,EE.UU.,"Pop / anglo (pop, hip-hop, R&B, rock, electrónica)",Fiesta urbana,2,No,Sí,2023-12-27,2024-12-26,42,3.83,0.509,0.812,0.689,159.9,0.001,0.054
+361,UWAIE,Kapo,Agrupación,Sin dato,Sin dato,Fiesta urbana,278,Sí,No (censurada),2024-08-20,2025-06-11,35,2.87,0.705,0.783,0.454,103.0,0.138,0.04
+362,VAGABUNDO,"Sebastian Yatra, Manuel Turizo, Beéle",Sin dato,Sin dato,Sin dato,Fiesta urbana,57,Sí,Sí,2024-01-21,2024-03-19,47,3.59,0.817,0.851,0.886,127.0,0.035,0.063
+363,VeLDÁ,"Bad Bunny, Omar Courtz, Dei V",Solista,Puerto Rico,Urbano latino (reggaetón / trap latino),Fiesta urbana,149,Sí,No (censurada),2025-01-06,2025-06-11,12,3.92,0.613,0.981,0.034,101.9,0.29,0.149
+364,Ven a Mi Casa Esta Navidad,Los Toribianitos,Sin dato,Sin dato,Sin dato,Baladas acústicas,2,No,Sí,2023-12-27,2024-12-26,46,3.24,0.647,0.492,0.35,101.7,0.361,0.024
+365,VITAMINA,"Jombriel, DFZM, Jøtta",Solista,Sin dato,Sin dato,Fiesta urbana,87,Sí,No (censurada),2025-03-09,2025-06-11,42,3.48,0.815,0.746,0.768,92.0,0.015,0.053
+366,Volare,Danny Ocean,Solista,EE.UU.,Urbano latino (reggaetón / trap latino),Fiesta urbana,23,Sí,Sí,2024-12-06,2025-01-26,50,2.46,0.753,0.733,0.156,92.1,0.253,0.056
+367,Volver,"Piso 21, Marc Anthony, Beéle",Agrupación,Colombia,Urbano latino (reggaetón / trap latino),Urbano rapeado (trap),106,Sí,No (censurada),2025-02-18,2025-06-11,48,3.87,0.478,0.793,0.604,92.3,0.235,0.387
+368,VOY A LLeVARTE PA PR,Bad Bunny,Solista,Puerto Rico,Urbano latino (reggaetón / trap latino),Baladas acústicas,149,Sí,No (censurada),2025-01-06,2025-06-11,9,2.61,0.148,0.604,0.0,106.3,0.921,0.059
+369,WASSUP,Young Miko,Solista,Puerto Rico,Urbano latino (reggaetón / trap latino),Fiesta urbana,36,Sí,No (censurada),2025-05-07,2025-06-11,40,2.7,0.86,0.681,0.656,145.0,0.005,0.04
+370,we can't be friends (wait for your love),Ariana Grande,Solista,EE.UU.,"Pop / anglo (pop, hip-hop, R&B, rock, electrónica)",Fiesta urbana,28,Sí,Sí,2024-03-12,2024-04-10,37,3.81,0.645,0.663,0.287,115.8,0.066,0.045
+371,WELTiTA,"Bad Bunny, Chuwi",Solista,Puerto Rico,Urbano latino (reggaetón / trap latino),Urbano rapeado (trap),141,Sí,Sí,2025-01-06,2025-06-03,17,3.13,0.458,0.297,0.357,96.1,0.866,0.6
+372,WHERE SHE GOES,Bad Bunny,Solista,Puerto Rico,Urbano latino (reggaetón / trap latino),Fiesta urbana,35,Sí,No (censurada),2023-10-18,2023-11-21,24,3.86,0.651,0.799,0.223,144.0,0.143,0.061
+373,Who,Jimin,Solista,Corea del Sur,K-pop,Fiesta urbana,309,Sí,No (censurada),2024-07-20,2025-06-11,9,2.85,0.66,0.756,0.838,116.0,0.003,0.032
+374,Wildest Dreams (Taylor's Version),Taylor Swift,Solista,EE.UU.,"Pop / anglo (pop, hip-hop, R&B, rock, electrónica)",Fiesta urbana,1,No,Sí,2023-10-29,2023-10-29,49,3.67,0.581,0.672,0.514,140.1,0.041,0.074
+375,WILDFLOWER,Billie Eilish,Sin dato,Sin dato,Sin dato,Baladas acústicas,8,Sí,Sí,2025-02-07,2025-02-15,49,4.36,0.467,0.247,0.126,148.1,0.612,0.043
+376,WYA REMIX RED,"J Abdiel, De La Rose, Yan Block, iZaak, Jay Wheeler",Solista,Sin dato,Sin dato,Baladas acústicas,168,Sí,Sí,2024-06-02,2024-11-16,46,5.36,0.733,0.527,0.371,110.0,0.364,0.049
+377,X SI VOLVEMOS,"KAROL G, Romeo Santos",Solista,Colombia,Urbano latino (reggaetón / trap latino),Urbano rapeado (trap),6,No,Sí,2024-04-13,2024-04-18,40,3.34,0.794,0.807,0.575,178.0,0.334,0.326
+378,Y Es Que Sucede Así,Arena Hash,Agrupación,Perú,"Pop / anglo (pop, hip-hop, R&B, rock, electrónica)",Fiesta urbana,20,Sí,Sí,2023-12-30,2024-01-18,39,3.74,0.673,0.717,0.83,149.6,0.142,0.058
+379,Yandel 150,"Yandel, Feid",Sin dato,Sin dato,Sin dato,Fiesta urbana,22,Sí,Sí,2023-12-02,2023-12-23,46,3.6,0.783,0.729,0.58,168.0,0.049,0.069
+380,"yes, and?",Ariana Grande,Solista,EE.UU.,"Pop / anglo (pop, hip-hop, R&B, rock, electrónica)",Fiesta urbana,12,Sí,Sí,2024-01-14,2024-01-25,17,3.58,0.788,0.758,0.823,119.0,0.198,0.051
+381,Yes or No,Jung Kook,Solista,Corea del Sur,K-pop,Fiesta urbana,1,No,Sí,2023-11-05,2023-11-05,35,2.46,0.671,0.839,0.882,83.8,0.179,0.087
+382,Yo No Sé Mañana,Luis Enrique,Solista,NI,Tropical (cumbia / salsa / bachata),Fiesta urbana,7,No,Sí,2025-03-04,2025-04-30,46,4.33,0.639,0.815,0.739,95.4,0.676,0.044
+383,Yo sé,"Yan Block, TORRRES",Solista,Sin dato,Sin dato,Baladas acústicas,34,Sí,No (censurada),2025-04-06,2025-06-11,46,2.16,0.716,0.462,0.626,136.0,0.68,0.128
+384,"Young Miko: Bzrp Music Sessions, Vol. 58","Bizarrap, Young Miko",Sin dato,Sin dato,Sin dato,Baladas acústicas,89,Sí,Sí,2024-01-13,2024-04-12,10,3.12,0.704,0.571,0.443,96.0,0.588,0.156

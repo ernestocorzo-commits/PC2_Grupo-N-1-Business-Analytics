@@ -1,0 +1,16 @@
+﻿fuente,indicador,valor,unidad
+P1,Bailabilidad promedio Perú,0.74,índice 0-1
+P1,Bailabilidad promedio global,0.57,índice 0-1
+P1,Energía promedio Perú,0.68,índice 0-1
+P1,Energía promedio global,0.64,índice 0-1
+P2,Cuota del urbano latino,72.01,%
+P2,Concentración Top 3 macro-géneros,88.28,%
+P4,Cuota de consumo de solistas,86.93,%
+P5,Permanencia mediana,23.0,días
+P5,Canciones que salen en 7 días o menos,35.9,%
+P7,Consumo de canciones alegres,65.17,%
+P8,Cuota del país líder (Puerto Rico),32.34,%
+P8,Cuota de artistas peruanos,6.81,%
+Modelo,R² del modelo supervisado,25.67,%
+Serie,Canciones nuevas por semana (promedio),10.39,canciones
+Serie,Canciones nuevas por semana (pronóstico),17.68,canciones
